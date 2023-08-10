@@ -1,0 +1,2669 @@
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 10Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+3Com SuperStack 4400 Series Switches Switch, Switch- 
+RouterY SSH, Telnet N Both Validated N
+3Com 4120-26 Switch v3.01.11.s56 Y Y Both Validated
+3Com 5500 Series Switches Switch Y SSH, Telnet N Both Validated
+3Com jvSwitch5500-eipwr-28 Switch-Router V3.03.02s168ep10 Y N N Both Validated
+3Com jvSwitch5500G-ei-48 Switch-Router V3.03.02s168ep18 Y N N Both Validated
+3Com 8800 Series Switches Switch Y SSH, Telnet N Both Validated
+3Com jvSwitch8810 Switch-Router 3.01.32s256re Y N N Both Validated
+3Com jvSwitch4500-pwr-26 Switch-Router V3.03.02s168p11 Y SSH Y Both Validated
+3Com jvSwitch5500-ei-28 Switch-Router V3.03.02s56ep04 Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 11Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+A10 AX1000 Load Balancer 2.7.0-P6 Y SSH N/A Both Validated N
+A10 AX2500 Load Balancer 2.4.3 Y SSH, Telnet N/A Both Validated
+A10 AX2600 Load Balancer 2.6.1 Y SSH N/A Both Validated
+A10 AX3000 Load Balancer 2.6.1-GR1-P5 Y SSH N/A Both Validated
+A10 TH1030S Load Balancer 2.7.1-P6 Y SSH N/A Both Validated
+A10 TH4430S Load Balancer 4.1.0(build: 454) Y SSH N/A Both Validated
+A10 TH840 Load Balancer 4.1.1-P1(build: 38) Y SSH N/A Both Validated
+A10 TH3230S Load Balancer 4.0.1(build: 214) Y Y N Both Validated
+A10 TH1030S Unified Application
+Service Gateway2.7.2-P10 (build: 86) Y Y N Both Validated
+A10 TH3030S Load Balancer 4.1.0-P9 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 12Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+A10 TH3040 Load Balancer 4.1.4-GR1-P2 (build: 
+151) Y Y N Both Best Effort
+Acme Packet 3820 VOIP Gateway SCX6.4.0 MR-3 Patch 2 
+(Build 341)Y SSH N/A Both Validated N
+Acme Packet 4500 VOIP Gateway ECZ7.3.0 MR-1 Patch 1 
+(Build 134)Y SSH N/A Both Validated
+Alaxala AX3640S-24T Switch-Router 11.5.B Y Telnet N Both Validated N
+Alaxala AX6708S Switch-Router 11.5 Y Telnet N Both Validated
+Alcatel OmniStack6024 Switch v2.51.05 Y N N Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 13Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Alcatel OmniStack6124 Switch v3.30.03 Y N N Both Validated
+Alcatel OmniStack6148 Switch v3.30.03 v3.30.08 Y N N Both Validated
+Alcatel/Xylan OmniStack 6248P Switch 1.0.1.27 Y SSH, Telnet N Both Validated
+Alcatel/Xylan OmniStack 6224 Switch 1.7.0.18 Y SSH, Telnet N Both Validated
+Alcatel/Xylan OmniStack 6300-24 Switch 2.2.0.15 Y SSH, Telnet N Both Validated
+Alcatel/Xylan OmniStack/PizzaSwitch Family Switch Y N N Both Validated
+Alcatel/Xylan OmniSwitch 9 Switch Family Switch Y N N Both Validated
+Alcatel/Xylan OmniSwitch 4024 Series Switch Switch Y SSH, Telnet N Both Validated
+Alcatel/Xylan OmniSwitch 5024 Series Switch Switch Y SSH, Telnet N Both Validated
+Alcatel/Xylan OmniSwitch 6024 Series Switch Switch Y SSH, Telnet N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 14Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Alcatel OS10000 Switch-Router 7.3.1.748.R01 Y SSH N Both Validated
+Alcatel OS6400P48 Switch-Router 6.4.3.717.R01 
+6.4.3.907.R01 
+6.4.4.530.R01Y SSH Y Both Validated
+Alcatel OS6450-24 Switch-Router 6.6.4.177.R01 GA Y SSH Y Both Validated
+Alcatel OS6450P10 Switch-Router 6.6.3.451.R01 Y SSH Y Both Validated
+Alcatel OS6400P24 Switch-Router 6.4.4.530.R01 Y SSH Y Both Validated
+Alcatel OS6400U24 Switch-Router 6.4.4.530.R01 Y SSH Y Both Validated
+Alcatel OS6450P24 Switch-Router 6.6.3.438.R01 Y SSH Y Both Validated
+Alcatel OS6450P48 Switch-Router 6.6.3.520.R01 
+6.6.4.177.R01 GAY SSH Y Both Validated
+Alcatel/Xylan OS660248 Switch-Router 5.1.6.474.R02 Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 15Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Alcatel OS6624PoE Switch-Router 5.1.6.424.R01 Y SSH Y Both Validated
+Alcatel OS685024X Switch-Router 6.3.4.569.R01 
+6.4.3.907.R01Y SSH Y Both Validated
+Alcatel OS6850P24X Switch-Router 6.4.3.907.R01 Y SSH Y Both Validated
+Alcatel/Xylan OmniSwitch 6850-48 Switch 6.4.2.968.R01 Y SSH, Telnet N Both Validated
+Alcatel/Xylan Validated OmniSwitch 6850EP-48 Switch-Router 6.4.4.343.R01GA Y SSH, Telnet Y Both Validated
+Alcatel/Xylan OmniSwitch 6850-P24L Switch 6.1.3.805.R01 Y SSH, Telnet N Both Validated
+Alcatel OS6900-X20/X40 Switch-Router 7.3.2.469.R01 Y SSH Y Both Validated
+Alcatel/Xylan OmniSwitch 7700 Series Switch Y SSH, Telnet N Both Validated
+Alcatel/Xylan OmniSwitch 7800 Series Switch Y SSH, Telnet N Both Validated
+Alcatel OS9600 Switch-Router 6.4.3.907.R01 Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 16Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Alcatel/Xylan OS9700 Switch-Router 6.3.4.621.R01 Y SSH, Telnet Y Both Validated
+Alcatel/Xylan OmniSwitch 8008 Series Switch Switch Y SSH, Telnet N Both Validated
+Alcatel/Xylan PR5200 Series Switch Router Switch-Router Y N N Both Validated
+Alcatel/Xylan Service Aggregation Router 7705 
+SAR-8Router TiMOS-B-2.1.R3 Y SSH, Telnet N/A Both Validated
+Alcatel 7705 SAR-f Router TiMOS-B-4.0.R5 Y SSH, Telnet N/A Both Validated
+Alcatel/Xylan Service Router 7750 Router TiMOS-C-7.0.R3 Y SSH, Telnet N/A Both Validated
+Alcatel 7210 SAS-M Switch-Router TiMOS-B-6.0.R6 Y SSH Y Both Validated
+Alcatel 7210 SAS-M24F2XP Switch-Router TiMOS-B-6.0.R6 Y SSH Y Both Validated
+Alcatel OS6450C48 Switch-Router 6.6.4.244.R01 GA Y SSH N Both Validated
+Alcatel 7750 SR-12e Router TiMOS-C-14.0.R4 Y Y N Both Validated
+Alcatel OmniSwitch 6250-24 Switch-Router 6.6.3.520.R01 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 17Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Alcatel OmniSwitch 6850E-24 Switch Y Y N Both Validated
+Alcatel OmniSwitch 9700E Switch-Router Y Y N Both Validated
+Alcatel OmniSwitch 9800E Switch-Router Y Y N Both Validated
+Alcatel OS6860E-P48 Switch-Router 8.4.1.141.R03 GA Y Y N Both Validated
+Alcatel OS6860-P48 Switch-Router 8.5.255.R02 Y Y N Both Validated
+Alcatel OS6860E-P24 Switch-Router 8.5.255.R02 Y Y N Both Validated
+Alcatel OS6860E-P48 Switch-Router 8.5.255.R02 Y Y N Both Validated
+Alcatel OS6860E-U28 Switch-Router 8.5.255.R02 Y Y N Both Validated
+Alcatel OS6860E-U28 Switch-Router 8.5.196.R04 GA Y Y N Both Validated
+Alcatel OS6860E-P48 Switch-Router 8.5.196.R04 GA Y Y N Both Validated
+Allied Telesyn AT-8200 Series Switches Switch Y SSH, Telnet N Both Validated N
+Allied Telesyn AT-8000-24POE Switch 3.0.0.45 P SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 18Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Allied Telesyn x610_24Ts Switch-Router 5.4.1-2.8 
+5.4.2-3.14Y SSH Y Both Validated
+Allied Telesyn x610_24Ts Switch-Router 5.4.2-3.14 Y SSH Y Both Validated
+Allied Telesyn AT-8000-24 Switch 3.0.0.44 Y Y N Both Validated
+Allied Telesyn AT-8000-24 Switch 3.0.0.45 Y Y N Both Validated
+Alteon copperModule Switch 1.0.1.4 Y Telnet N Both Validated N
+Alteon NnVPNGw3050 VPN v9.0.13.0 Y N N Both Validated
+Alteon 6024XL Load Balancer 30.5.10.0 Y Y N Both Best Effort
+Alteon 5224 Load Balancer 30.2.7.0 Y Y N Both Best Effort
+Anue 5236 NTO 3.11.0.6 Y N N Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 19Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+APC Smart-UPS X 3000 PowerController 7.4 Y Y N Both Validated
+APCON ACI-3036-AC Switch 4.35.6 Y Y N Both Validated N
+APCON ACI-3072-XE-AC Switch 4.35.6 Y Y N Both Validated
+APCON ACI-3072-XE-AC-R Switch 4.35.6 Y Y N Both Validated
+APCON ACI-3144-XR-AC Switch 4.35.6 Y Y N Both Validated
+Apple Airport Extreme Wireless Base 
+Station FamilyWireless AP N SSH, Telnet N/A Both Validated N
+Arista DCS7280SE72 Switch-Router 4.15.1F Y SSH Y Both Validated Y
+Arista DCS7124S Switch 4.7.7 Y SSH, Telnet N Both Validated
+Arista DCS7124S Switch 4.9.1 Y SSH, Telnet N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 20Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Arista DCS7048TA Switch-Router 4.8.3 
+4.9.5Y SSH, Telnet Y Both Validated
+Arista DCS7050S52 Switch 4.7.7 Y SSH, Telnet N Both Validated
+Arista DCS-7050T-52 Switch EOS v4.11.5.1 Y SSH, Telnet Y Both Validated
+Arista DCS7504 Switch-Router 4.10.4 Y SSH, Telnet Y Both Validated
+Arista DCS7508 Switch 4.8.3 Y SSH, Telnet Y Both Validated
+Arista vEOS Switch-Router 4.13.5F Y SSH, Telnet Y Both Validated
+Arista DCS7150S24 Switch-Router 4.13.5F Y SSH N Both Validated
+Arista DCS7050SX128 Switch-Router 4.15.3F Y SSH Y Both Validated
+Arista DCS7050SX64 Switch-Router 4.15.2F Y SSH Y Both Validated
+Arista DCS7050SX64 Switch-Router 4.15.3F Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 21Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Arista DCS-7050TX-128 Switch-Router 4.15.5M Y N/A for NI N Both Validated
+Arista DCS-7050QX-32S Switch-Router 4.14.3F Y Y N Both Validated
+Arista DCS-7048T-A-F Switch-Router 4.14.6M Y Y N Both Validated
+Arista DCS-7050T-64 Switch-Router 4.14.10M Y Y N Both Validated
+Arista DCS-7010T-48 Switch-Router 4.15.5M Y Y N Both Validated
+Arista DCS-7050SX-72Q Switch-Router 4.15.5M Y Y N Both Validated
+Arista DCS-7250QX-64 Switch-Router 4.15.5M Y Y N Both Validated
+Arista DCS-7050TX-128 Switch-Router 4.15.5M Y Y N Both Validated
+Arista DCS-7050T-64-F Switch-Router 4.14.10M Y Y N Both Validated
+Arista DCS-7048T Switch-Router 4.14.6M Y Y N Both Validated
+Arista DCS-7050SX-128 Switch-Router 4.15.5M Y Y N Both Validated
+Arista DCS-7050TX-72Q-F Switch-Router 4.15.5M Y Y N Both Validated
+Arista DCS7050SX272Q Switch-Router 4.20.5.2F Y Y N Both Best Effort
+Arista DCS7060SX248YC6 Switch-Router 4.21.7.1M Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 22Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Array Networks APV3600 Load Balancer 8.6.1.37 Y Y N Both Validated N
+Arris C-Series CMTS Router Y SSH, Telnet N/A Both Validated N
+Arris D-Series Universal Edge QAM Video QAM Y SSH, Telnet N/A Both Validated
+Aruba 6000 Series Wireless Controller Wireless Controller Y SSH, Telnet N/A Both Validated Y – NetMRI
+No – 
+Network 
+InsightAruba A620-US Wireless Controller 6.1.2.4 Y SSH, Telnet N/A Both Validated
+Aruba S3500-24P-US Switch 7.1.3.3 Y SSH AdminStatus, 
+DescriptionBoth Validated
+Aruba A7240 Wireless Controller 6.4.2.6- 
+4.1.1.10_51810Y SSH N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 23Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Aruba ap225 Wireless AP 6.4.2.6- 
+4.1.1.10_51810Y SSH N/A Both Validated
+Aruba A7205 Wireless Controller 6.4.3.1 Y SSH N/A NetMRI Validated
+Aruba A5000-US Wireless Controller 5.0.4.3 Y SSH N/A NetMRI Validated
+Aruba 7240-US Wireless Controller 6.4.4.16 Y Y N/A Both Validated
+Aruba 7210 (US) Mobility Controller 6.4.4.16 Y Y N Both Validated
+Aruba AP-105 Wireless AP 6.4.4.8-4.2.4.5 Y Y N Both Best Effort
+Aruba A7005 Wireless Controller 8.2.1.0 Y Y N Both Validated
+Aruba A7005-US Wireless Controller 8.2.1.0 Y Y N Both Validated
+Aruba Aruba-Stack2930M Switch-Router 22.5.1.7 Y Y N Both Validated
+Aruba A7240XM-US Wireless Controller 8.3.0.5 Y Y N Both Validated
+Aruba A7205 Wireless Controller 8.3.0.6 Y Y N Both Validated
+Aruba A7205-US Wireless Controller 8.3.0.6 Y Y N Both Validated
+Aruba A7210 Wireless Controller 6.5.4.7 Y Y N Both Validated
+Aruba A7210-US Wireless Controller 6.5.4.7 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 24Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Aruba A7240XM-US Wireless Controller 8.2.1.0 Y Y N Both Validated
+Aruba A7220 Wireless Controller 8.2.1.0 Y Y N Both Validated
+Aruba A7030 Wireless Controller 8.2.1.0 Y Y N Both Validated
+Aruba A7030-US Wireless Controller 8.2.1.0 Y Y N Both Validated
+Aruba MM-HW-1K Wireless Controller 8.3.0.2 Y Y N Both Validated
+Aruba A7210-US Wireless Controller 6.5.3.6 Y Y N Both Validated
+Aruba A7210 Wireless Controller 6.5.4.3 Y Y N Both Validated
+Aruba MM-HW-10K Wireless Controller 8.3.0.6 Y Y N Both Validated
+Aruba A7010-US Wireless Controller 8.2.1.0 Y Y N Both Validated
+Aruba A7010 Wireless Controller 8.2.1.0 Y Y N Both Validated
+Aruba ArubaMM-VA Wireless Controller 8.6.0.2 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 25Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Avaya S8700 Series Media Server Call Server Y N N/A Both Validated Y – NetMRI
+No – 
+Network 
+InsightAvaya 1600 Series IP Phone IP Phone Y N N/A Both Validated
+Avaya 4600 Series IP Phone IP Phone Y N N/A Both Validated
+Avaya 9600 Series IP Phone IP Phone Y N N/A Both Validated
+Avocent ASC6048 Console Server 2.4.0.11 N SSH N/A Both Validated N
+Avocent ASC6048 Console Server 3.1.0.8 Y Y N Both Validated
+Avocent ASC6048 Console Server 3.3.0.10 Y Y N Both Validated
+Avocent ASC6048 Console Server 3.5.0.10 Y Y N Both Validated
+Avocent ASC6048 Console Server 3.6.0.8 Y Y N Both Validated
+Avocent acs8048 Console Server 2.0.3.3542 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 26Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+BigBand BRE Encoder Family Video Encoder N SSH, Telnet N/A Both Validated N
+BigBand BMR 1200 Series Video 
+Networking PlatformVideo Groomer N SSH, Telnet N/A Both Validated
+BlueCoat sg300 Proxy 6.2.6.1 Y SSH, Telnet N/A Both Validated Y – NetMRI
+No – 
+Network 
+InsightBlueCoat sg600 Proxy 6.4.4.1 Y SSH N/A Both Validated
+BlueCoat sg900 Proxy 6.5.2.3 Y SSH N/A Both Validated
+BlueCoat sg9000 Proxy 6.4.4.1 Y SSH, Telnet N/A Both Validated
+BlueCoat SG-S500 Proxy 6.6.5.13 Y Y N Both Validated
+BNT g8000-RS Switch-Router 6.8.6 Y SSH, Telnet Y Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 27Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+BNT g8124 Switch-Router 1.1.4.0 Y SSH, Telnet Y Both Validated
+BNT g8124 Switch-Router 6.8.12 
+6.8.19Y SSH, Telnet Y Both Validated
+BNT gbESM-10G-L2L3 Switch 6.5.3, 6.8.14 Y SSH, Telnet Y Both Validated
+Brocade FastIron Series Switch-Router Y SSH, Telnet N Both Validated N
+Brocade BigIron Series Switch, Router Y SSH, Telnet N Both Validated
+Brocade BrocadeMLXe32 Switch-Router 5.2.0aT163 Y SSH, Telnet N Both Validated
+Brocade NetIron Series Switch-Router Y SSH, Telnet N Both Validated
+Brocade EdgeIron 4802CF (Foundry) Switch v2.2.7.33 Y SSH, Telnet N Both Validated
+Brocade NIXMR16000 Switch-Router 5.2.0dT163 Y SSH, Telnet N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 28Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Brocade ServerIron Series Switch-Router Y SSH, Telnet N Both Validated
+Brocade 6510 Switch-Router 7.3.1 Y SSH, Telnet N Both Validated
+Brocade vdx6720 Switch-Router 3.0.0b Y SSH, Telnet N Both Validated
+Brocade vdx6720P24 Switch-Router 3.0.0b Y SSH, Telnet N Both Validated
+Brocade vdx6730P32 Switch-Router 4.2.1ac Y SSH, Telnet N Both Validated
+Brocade vdx6740 Switch-Router 4.2.1ac Y SSH, Telnet N Both Validated
+Brocade vdx8770S4 Switch-Router 4.2.1ac Y SSH, Telnet N Both Validated
+Brocade FastIronStackICX7450 Switch 08.0.30gT211 Y SSH Y Both Validated
+Brocade FES12GCF Switch 04.1.00Tc1 Y Y Y Both Validated
+Brocade FCX648SHPOE Switch 08.0.10kT7f1 Y N Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 29Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Brocade FCX624SHPOE Switch 08.0.10kT7f1 Y N Y Both Validated
+Brocade FastIronStackFCX Switch 08.0.10kT7f1 Y N Y Both Validated
+Brocade FLS624 Switch 07.2.02nT7e1 Y N Y Both Validated
+Brocade FLS648 Switch 07.2.02nT7e1 Y N Y Both Validated
+Brocade ICX643024HPOE Switch 08.0.10kT311 Y N Y Both Validated
+Brocade ICX643048HPOE Switch 08.0.10kT311 Y N Y Both Validated
+Brocade ICX643048 Switch 08.0.10kT311 Y N Y Both Validated
+Brocade ICX6430C12 Switch 08.0.10kT311 Y N Y Both Validated
+Brocade ICX661024F Switch 08.0.10kT7f1 Y N Y Both Validated
+Brocade ICX7450-24 Switch-Router 08.0.30cT213 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 30Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Brocade FastIronSuperXPrem Switch-Router 07.2.02dT3e3 Y Y N Both Validated
+Brocade FastIronStackFCX Switch-Router 07.4.00fT7f3 Y Y N Both Validated
+Brocade BrocadeMLXe4 Switch-Router 5.4.0fT163 Y Y N Both Validated
+Brocade ICX661048P Switch-Router 07.4.00fT7f3 Y Y Y Both Validated
+Brocade ICX7250-48 Switch-Router 08.0.40bT213 Y SSH N NetMRI Validated
+Brocade ICX6430C12 Switch 08.0.30n.T311 Y SSH N NetMRI Validated
+Brocade vdx6740 Switch-Router 7.0.1 Y SSH N NetMRI Validated
+Brocade ICX7750 Switch-Router 08.0.30kaT203 Y SSH Y NetMRI Validated
+Brocade ICX725048 Switch-Router 08.0.40bT213 Y Y Y Both Validated
+Brocade ICX6430C12 Switch-Router 08.0.30mbT311 Y Y Y Both Validated
+Brocade ICX7450-48F Switch-Router 08.0.40aT213 Y Y Y Both Validated
+Brocade vdx6720P60 Switch-Router 3.0.1a Y Y N Both Validated
+Brocade vdx6720P60 Switch-Router 3.0.1a Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 31Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Brocade ASA5585Ssp60sc Firewall 9.6(2) Y Y N Both Best Effort
+Brocade ICX7450-48 Switch-Router 08.0.40aT213 Y Y N Both Validated
+Brocade ICX7750-48 Switch-Router 08.0.40aT213 Y Y N Both Validated
+Brocade FCX624SHPOE Switch-Router 08.0.40aT213 Y Y Y Both Validated
+Brocade MLXe4 Switch-Router 6.0.0aT163 Y Y N Both Validated
+BSN Big Cloud Fabric SD-WAN 4.7.5 Y Y N Both Best Effort
+CASA C2000 Series CMTS CMTS Y SSH, Telnet N/A Both Validated N
+CASA C3000 Series CMTS CMTS Y SSH, Telnet N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 32Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Check Point Gaia Security Manager R75.40, R77.10 Y Not 
+SupportableN/A Both Validated Y – NetMRI
+N – Network 
+Insight
+Check Point IP690 / FireWall-1 Firewall 7.3/6.2-GA024 Y SSH, Telnet N/A Both Validated
+Check Point IP560 / Firewall Firewall 9.7/6.2-GA055b01 Y SSH, Telnet N/A Both Validated
+Check Point SecurePlatform (SPLAT) Security Manager R70 Y Not 
+SupportableN/A Both Validated
+Check Point VPN-1 / Firewall -1 Family Firewall Y SSH, Telnet N/A Both Validated
+Check Point Smart-1 3050 Security
+Management
+ApplianceGaia R77.30 Y Y N Both Validated
+Check Point 5600 Firewall Gaia R80.10 Y Y N Both Validated
+Check Point 23500 Firewall Gaia R77.30 Y Y N Both Validated
+Check Point 5800 Firewall Gaia R80.10 Y Y N Both Validated
+Check Point 12600 Firewall Gaia R77.20 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 33Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Check Point 21800 Firewall Gaia R80.10 Y Y N Both Best Effort
+Check Point 5200 Firewall Gaia R80.30 Y Y N Both Validated
+NOTE : 
+NetMRI for Check Point models Smart-1 3050, 5600, and 23500: To enable Advisor support, create the following file in the specified directory: /var/home/admin/Backup/useCheckPointAdvisor.
+Network Insight: Advisor support is disabled by default, but you can contact Infoblox support  to enable it.
+Ciena 3926m Service Delivery
+Platformsaos-06-17-01-0149 Y Y N NetMRI Validated N
+Ciena waveserver Service Delivery 
+Platform1.5.0 Y Y N Both Validated
+Ciena waveserver Service Delivery 
+Platform1.6.0 Y Y N Both Validated
+Cisco 800 Series Integrated Services 
+RouterRouter Y SSH, Telnet N/A Both Validated Y
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 34Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco 1600 Series Integrated Services 
+RouterRouter Y SSH, Telnet N/A Both Validated
+Cisco 1700 Series Integrated Services 
+RouterRouter Y SSH, Telnet N/A Both Validated
+Cisco 1800 Series Integrated Services 
+RouterRouter Y SSH, Telnet N/A Both Validated
+Cisco 2500 Series Access Server Router Y SSH, Telnet N/A Both Validated
+Cisco 2500 Series Router Y SSH, Telnet N/A Both Validated
+Cisco 2600 Series Router Y SSH, Telnet N/A Both Validated
+Cisco 2800 Series Integrated Services 
+RouterRouter Y SSH, Telnet N/A Both Validated
+Cisco 2811 Router 12.4(15)T1 Y SSH, Telnet N/A Both Validated
+Cisco 2921 Router IOS 15.2(4)M3 Y SSH, Telnet N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 35Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco 3000 Series VPN Concentrator VPN Y SSH, Telnet N/A Both Validated
+Cisco 3600 Series Multifunction 
+PlatformRouter Y SSH, Telnet N/A Both Validated
+Cisco 3700 Series Multiservice Access 
+RouterRouter Y SSH, Telnet N/A Both Validated
+Cisco 3800 Series Integrated Services 
+RouterRouter Y SSH, Telnet N/A Both Validated
+Cisco 3945 Integrated Services Router Router 15.1(4)M5 Y SSH, Telnet N/A Both Validated
+Cisco 4400 Series Wireless LAN 
+ControllerWireless Controller Y SSH, Telnet N/A Both Validated
+Cisco 4507re Switch-Router 15.0(2)SG Y N/A N/A Both Validated
+Cisco 4700 Series Modular Router Router Y SSH, Telnet N/A Both Validated
+Cisco C68xx Virtual Switch Switch-Router v15.2(1)SY1 Y SSH, Telnet N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 36Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco 7200/7300 Series WAN 
+Aggregation RouterRouter Y SSH, Telnet N/A Both Validated
+Cisco 7500 Series Router Router Y SSH, Telnet N/A Both Validated
+Cisco 7600 Series Router Router Y SSH, Telnet N/A Both Validated
+Cisco 8500 Series Multiservice Switch 
+RouterSwitch-Router Y N IOS 12.x Both Validated
+Cisco 12000 Series Router Router Y SSH, Telnet N/A Both Validated
+Cisco 12406 Router 4.2.1[Default] Y SSH, Telnet N/A Both Validated
+Cisco ACE20K9 Load Balancer A2(3.5) Y SSH N/A Both Validated
+Cisco ACE 4710 (ACE4710K9) Load Balancer A3 (2.7) Y SSH, Telnet N/A Both Validated
+Cisco AIR-CT5508-K9 Wireless Controller 7.2.103.0 
+7.4.121.0Y SSH N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 37Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco AIRAP1262 Wireless AP IOS 12.4(25d)JA1 Y SSH N/A Both Validated
+Cisco AIRAP2602 Wireless AP IOS 15.2(4)JB4 Y SSH N/A Both Validated
+Cisco Aironet 340 Series Access Point Wireless AP Y N N/A Both Validated
+Cisco Aironet 350 Series Access Point Wireless AP Y N N/A Both Validated
+Cisco Aironet 1100 Series Access Point Wireless AP Y N N/A Both Validated
+Cisco Aironet1130 (AIRAP1130) Wireless AP 12.3(7)JA2 Y SSH, Telnet N/A Both Validated
+Cisco Aironet 1200 Series Access Point Wireless AP Y SSH, Telnet N/A Both Validated
+Cisco AS5200 Family Universal Access 
+ServerComm Server Y N N/A Both Validated
+Cisco A5300 Series Universal Gateway Comm Server Y SSH, Telnet N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 38Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco ASA5500 Series Adaptive 
+Security ApplianceFirewall Y SSH, Telnet N/A Both Validated
+Cisco ASA5506 Firewall 9.5(2)2 Y SSH N/A Both Validated
+Cisco ASA5508sc Firewall 9.4(2)11 Y SSH N/A Both Validated
+Cisco ASA5512 Firewall 8.6(1)2 Y SSH N/A Both Validated
+Cisco ASA5516-X Firewall 9.4(2) Y SSH N/A Both Validated
+Cisco ASA5520 Firewall 8.4(3), 
+9.1(2)Y SSH N/A Both Validated
+Cisco ASA5585Ssp10sc Firewall 8.4(4)9 Y SSH N/A Both Validated
+Cisco ASA5585Ssp40 Firewall 8.4(7)23 Y SSH N/A Both Validated
+Cisco ASASm1sc Firewall 9.1(3) Y SSH, Telnet N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 39Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco ASR 1001 Router 15.1(3)S Y SSH, Telnet N/A Both Validated
+Cisco ASR1001X Router 15.4(3)S4 Y SSH N/A Both Validated
+Cisco ASR 1002 Router 15.0(1)S1 Y N N/A Both Validated
+Cisco ASR 1004 Router 15.0(1)S, 15.1(1)S2 Y SSH, Telnet N/A Both Validated
+Cisco ASR 9001 Router 4.2.1[Default] Y SSH, Telnet N/A Both Validated
+Cisco ASR 9006 Router 3.9.1,
+4.0.0Y SSH, Telnet N/A Both Validated
+Cisco ASR 9010 Router 4.2.1[Default] Y SSH, Telnet N/A Both Validated
+Cisco CRS-4/S Load Balancer 3.8.4 Y SSH, Telnet N/A Both Validated
+Cisco CRS8S Router 4.1.2[Default] Y SSH, Telnet N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 40Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco Call Managers Series Call Server 3,4,5,6, 
+8.5.1.12900-1Y N/A N/A Both Validated
+Cisco Catalyst 1900 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 2900 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 2950 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst2960 (catalyst296024) Switch, Switch- 
+Router15.0(1)SE2 Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 2970 Series Switch Switch Y N IOS 12.x Both Validated
+Cisco Catalyst 3500 XL Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 3550 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 3560 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 41Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco Catalyst 3650 Series Switch Switch-Router IOS-XE v.03.03.03SE 
+IOS-XE v.03.03.02SEY SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 3750 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 3750 series Wireless 
+ControllerWireless Controller Y SSH, Telnet N/A Both Validated
+Cisco Catalyst 3850 Series Switch Switch-Router IOS-XE 03.02.01.SE 
+v15.0(1)EX2Y SSH, Telnet Y Both Validated
+Cisco Catalyst 4000 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 4500 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 4507re Switch-Router 15.0(2)SG Y SSH, Telnet N/A Both Validated
+Cisco Catalyst 4900 Series Switch Switch Y N IOS 12.x Both Validated
+Cisco Catalyst 5000 Series Switch Switch Y N IOS 12.x Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 42Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco Catalyst 5500 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 6000 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco Catalyst 6500 Series Switch Switch Y SSH, Telnet IOS 12.x Both Validated
+Cisco CSACS-1120 Radius Server 5.0 Y N N/A Both Validated
+Cisco CCS 11000 Series Content 
+Services SwitchSwitch Y N IOS 12.x Both Validated
+Cisco DSC9513 Storage Appliance NX-OS 5.2 Y N N/A Both Validated
+Cisco ISR4431 Router 15.4(3)S5 Y SSH N/A Both Validated
+Cisco ISR4331 Router v15.4(3)S2 Y SSH N/A Both Validated
+Cisco ISR4351 Router v15.4(3)S2 Y SSH N/A Both Validated
+Cisco ISR4451 Router v15.4(3)S1 Y SSH N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 43Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco MDS9000 Series Multilayer SAN 
+SwitchSwitch NX-OS 6.2(1) Y SSH, Telnet IOS 12.x Both Validated
+Cisco Me3400eg12csM Switch 12.2(55)SE Y SSH, Telnet N Both Validated
+Cisco Nexus 1000V Series Switch Switch 4.2 Y SSH, Telnet Y Both Validated
+Cisco Nexus N1KV Switch 4.2(1)SV2(2.1) Y SSH, Telnet Y Both Validated
+Cisco Nexus 2000 Series Fabric 
+Extender (with Nexus 5000 Series 
+Switch)Switch 5.0(2)N2(1) Y SSH, Telnet Y Both Validated
+Cisco N3kC3048TP1GE Switch-Router 5.0(3)U4(1), 
+6.0(2)U2(1)Y SSH Y Both Validated
+Cisco N3kC3064PQ10GE Switch-Router 5.0(3)U5(1c) Y Telnet Y Both Validated
+Cisco N5KC56128P Switch 7.0(7)N1(1) Both Validated
+Cisco Nexus N3K-C3064PQ-GX10 Switch 5.0(3)U5(1e) Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 44Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco Nexus 4000 (N4KIBMEth) Switch 4.1 Y SSH, Telnet N Both Validated
+Cisco Nexus 5k Family Switch 5.1 Y SSH, Telnet Y Both Validated
+Cisco Nexus 5010 (N5kC5010pBf) Switch 5.1(3)N2(1b), 4.1, 
+5.0(2)N2(1)Y SSH, Telnet Y Both Validated
+Cisco Nexus 5020 (N5kC5020pBf) Switch 4.1, 4.2, 5.0 Y SSH, Telnet Y Both Validated
+Cisco Nexus 5548 (N5kC5548p) Switch 5.0 Y SSH, Telnet Y Both Validated
+Cisco Nexus 5596Up (N5kC5596Up) Switch 5.0(3)N2(1), 
+5.1(3)N2(1a)Y SSH Y Both Validated
+Cisco Nexus 7k Family Switch-Router 5.2 Y SSH, Telnet Y Both Validated
+Cisco Nexus 7Kc7009 Switch-Router 5.2(3a) Y SSH, Telnet Y Both Validated
+Cisco Nexus 7010 (N7Kc7010) Switch-Router 4.2, 5.0, 
+5.0(2a), 
+5.1(4)Y SSH, Telnet Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 45Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco Nexus 7018 (N7Kc7018) Switch-Router 5.0 Y SSH, Telnet Y Both Validated
+Cisco PIX 500 Series Security 
+ApplianceFirewall Y SSH, Telnet N/A Both Validated
+Cisco Secure Access Control System Security Manager 5.6 Both Validated
+Cisco SF300-24P Switch 1.2.7.76 Y SSH Y Both Validated
+Cisco SF300-48P Switch 1.3.5.58 Y SSH Y Both Validated
+Cisco SG300-10P Switch 1.2.7.76, 
+1.3.0.62Y SSH N Both Validated
+Cisco SG300-10P Switch Y SSH N Both Validated
+Cisco uBR7100 Series Universal 
+Broadband RouterRouter Y SSH, Telnet N/A Both Validated
+Cisco VG200 Series VOIP Gateway VoIP Gateway Y N N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 46Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco VG224 VoIP Gateway 15.1(4)M5 Y N N/A Both Validated
+Cisco Wide Area Application Engine 
+(WAAS) SeriesWOC Y SSH, Telnet N/A Both Validated
+Cisco Wireless Services Module (WiSM) 
+SeriesWireless Controller 7.4.121.0 Y SSH, Telnet N/A Both Validated
+Cisco catWsC2960x24tsLL Switch 15.0(2a)EX5 Y SSH N Both Validated
+Cisco cat4xxxVirtualSwitch Switch-Router 03.06.01.E Y SSH N Both Validated
+Cisco 2911 Router 15.2(4)M9 Y SSH N Both Validated
+Cisco AIR-CT2504-K9 Wireless Controller 8.0.120.0 Y SSH N/A Both Validated
+Cisco AIR-CT2504-K9 Wireless Controller 8.0.121.0, Y SSH Both Validated
+Cisco ASA5545sc Firewall 9.1(6)6 Y SSH N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 47Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco catalyst4948 Switch-Router 12.2(53)SG1 Y SSH N/A Both Validated
+Cisco ISR4431 Router 15.4(3)S2 Y SSH N/A Both Validated
+Cisco ISR4331, Router 15.4(3)S2 Y SSH N/A Both Validated
+Cisco AIR-CT2504-K9 Wireless Controller 8.0.115.0 Y SSH N/A Both Validated
+Cisco N9KC9372PX Switch 7.0(3)I2(2b) Y SSH N Both Validated
+Cisco ASR1006 Router 15.5(3)S4a Y N N/A Both Validated
+Cisco 2911 Router 15.2(4)M9 Y N N/A Both Validated
+Cisco ASA5580 Firewall 9.1(5) Y SSH N/A NetMRI Validated
+Cisco ASA5580 Firewall 9.5(2)14 Y SSH N/A NetMRI Validated
+Cisco WS-C3650-48PQ Switch IOS-XE 03.07.01 Y SSH N NetMRI Validated
+Cisco C68xxVirtualSwitch Switch-Router 15.1(2)SY6 Y SSH Y NetMRI Validated
+Cisco S380 Proxy 9.1.2-022 Y SSH N/A NetMRI Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 48Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco S370 Proxy 9.1.2-022 Y SSH N/A NetMRI Validated
+Cisco S190 Proxy 9.1.2-022 Y SSH N/A NetMRI Validated
+Cisco 7500Wlc Wireless Controller 8.0.133.0 Y SSH N/A NetMRI Validated
+Cisco S170 Proxy 10.1.1-230 Y SSH N/A NetMRI Validated
+Cisco N77c7710 Switch-Router 7.2(2)D1(2) Y SSH Y NetMRI Validated
+Cisco N77c7710 Switch-Router 6.2(14) Y SSH Y NetMRI Validated
+Cisco ASA5585Ssp60sc Firewall 8.4(4)1 Y SSH N/A NetMRI Validated
+Cisco 3925 Router 15.4(3)M4 Y SSH N/A NetMRI Validated
+Cisco ASA5585Ssp40sc Firewall 8.4(7)30 Y SSH N/A NetMRI Validated
+Cisco wsc2948g Switch 8.3(2)GLX Y SSH N NetMRI Validated
+Cisco ASA5585Ssp40sc Firewall 8.4(7)26 Y SSH N/A NetMRI Validated
+Cisco Nexus 6004 Switch-Router 7.2(1)N1(1) Y Y Y Both Validated
+Cisco ASR9010 Router IOS-XR 4.3.2[Default] Y Y N Both Validated
+Cisco ASR903 Router 15.3(3)S1 Y Y N Both Validated
+Cisco N77c7706 Switch 7.2(2)D1(2) Y Y Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 49Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco Nexus C7702 Switch 7.3(0) DX (1) Y Y Y Both Validated
+Cisco ASA 5585 SSP-60 Firewall 9.2(4)17 Y Y N Both Validated
+Cisco WSC6509ve Switch-Router 12.2(33)SXJ6 Y Y N Both Validated
+Cisco WS-C2948G-GE-TX  Switch 8.3(2)GLX Y Y N Both Validated
+Cisco catalyst2924XLv  Switch 12.0(5)XU Y Y N Both Validated
+Cisco AIR-CT2504-K9 Wireless Controller 8.0.133.0 Y Y N/A Both Validated
+Cisco N9K-C93180YC  Switch FX 7.0(3)I7(2) Y Y Y Both Validated
+Cisco IE20004T  Switch 15.2(3)E3 Y Y N Both Validated
+Cisco N7Kc7004 Switch-Router 7.2(1)D1(1) Y Y N Both Best Effort
+Cisco 6004-96Q Switch-Router 7.3(0)N1(1) Y Y N Both Best Effort
+Cisco AIR-CT5520-K9 Wireless Controller 8.2.130.0 Y Y N Both Validated
+Cisco AIR-CT5520-K9 Wireless Controller 8.2.151.0 Y Y N Both Best Effort
+Cisco ASR 1002-HX Router 16.3.3 Y Y N Both Validated
+Cisco ASR 1002-HX Router 16.3.4 Y Y N Both Validated
+Cisco ASR 1002-HX Router 16.6.2 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 50Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco ASR1009-X Router 16.6.4 Y Y N Both Validated
+Cisco ASR 9010 IOS-XR Switch-Router 5.1.3[Default] Y Y N Both Validated
+Cisco C899G-LTE-LA-K9 Router 15.5(1)T1 Y Y N Both Best Effort
+Cisco DSC9710 Storage Appliance 6.2(7) Y Y N Both Validated
+Cisco ISE-VM-K9 Security manager 2.3.0.187 Y Y N NetMRI Validated
+Cisco ISR 4331 Router 15.5(3)S3 Y Y N Both Validated
+Cisco N77-C7706 Switch-Router 8.2(2) Y Y N Both Validated
+Cisco N77-C7710 Switch-Router 6.2(12) Y Y N Both Validated
+Cisco N3K-C3232C Switch-Router 7.0(3)I7(2) Y Y N Both Validated
+Cisco N6K-C6001-64P Switch-Router 7.0(7)N1(1) Y Y N Both Validated
+Cisco N7k7010 Switch-Router 6.2(16) Y Y N Both Validated
+Cisco N9K-C93108TC-FX Switch-Router 7.0(3)I7(1) Y Y N Both Validated
+Cisco Nexus 3548-X Switch-Router 6.0(2)A7(2) Y Y N Both Validated
+Cisco Nexus 3548-X Switch-Router 6.0(2)A8(2) Y Y N Both Validated
+Cisco Nexus 5648Q Switch-Router 7.1(4)N1(1) Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 51Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco Nexus 6004 Switch-Router 7.0(6)N1(1) Y Y N Both Validated
+Cisco Nexus 92160YC Switch 7.0(3)I5(1) Y Y N Both Validated
+Cisco Nexus 92304QC Switch-Router 7.0(3)I4(7) Y Y N Both Validated
+Cisco Nexus 93180LC-EX Switch-Router 7.0(3)I7(1) Y Y N Both Validated
+Cisco Nexus 93180YC-EX Switch-Router 7.0(3)I4(2) Y Y N Both Validated
+Cisco Nexus 93180YC-EX Switch-Router 7.0(3)I5(2) Y Y N Both Validated
+Cisco Nexus 93180YC-EX Switch-Router 7.0(3)I7(1) Y Y N Both Validated
+Cisco Nexus 93180YC-EX Switch-Router 7.0(3)I7(3) Y Y N Both Validated
+Cisco Nexus 9332PQ Switch-Router 7.0(3)I5(2) Y Y N Both Validated
+Cisco WS-C2960X-24TS-L Switch-Router 15.0(2)EX4 Y Y N Both Validated
+Cisco Cat9407R Switch-Router 16.6.4 Y Y N Both Validated
+Cisco C9300-24UX Switch-Router 16.8.20180420:143806 Y Y N Both Validated
+Cisco C9300-48P Switch-Router 16.6.4 Y Y N Both Validated
+Cisco C9300-48U Switch 16.9.1 Y Y N Both Validated
+Cisco N5kC5548UP Switch-Router 7.0(3)N1(1) Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 52Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco N7Kc7010 Switch-Router 8.1(1) Y Y N Both Best Effort
+Cisco WS-C2960X-48FPD-L Switch-Router 15.2(2)E7 Y Y N Both Validated
+Cisco WS-C6506-E Switch-Router 15.2(1)SY5 Y Y N Both Validated
+Cisco ASAv Firewall 9.9(1)2 Y Y N Both Validated
+Cisco UCSFI6248UP Switch 5.0(3)N2(3.22d) Y Y N Both Validated
+Cisco SNS-3495-K9 Security Manager 2.4.0.357 Y Y N Both Validated
+Cisco NCS5501 Router IOS-XR 6.3.3 Y Y N Both Validated
+Cisco AIR-CT5508-K9 Wireless Controller 8.0.152.0 Y Y N Both Best Effort
+Cisco SNS3595K9 Security Manager 2.2.0.470 Y Y N Both Validated
+Cisco Fpr2110td Firewall 2.3(1.84) Y Y N Both Validated
+Cisco SG300-28PP Switch 1.4.1.3 Y Y N Both Validated
+Cisco AIR-CT2504-K9 Wireless Controller 8.3.143.0 Y Y N Both Best Effort
+Cisco 6870XL Switch-Router 15.4(1)SY2 Y Y N Both Validated
+Cisco ISR 4221 Router 16.06.02 Y Y N Both Validated
+Cisco SG500-28 Switch 1.4.1.3 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 53Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco WS-C3560X-48PF-E Switch-Router 12.2(55)SE9 Y Y N Both Validated
+Cisco N9KC93180YCEX Switch-Router 9.2(1) Y Y N Both Validated
+Cisco N3kC3548P10G Switch-Router 7.0(3)I7(3) Y Y N Both Validated
+Cisco N5KC5596UP Switch-Router 6.0(2)N2(5) Y Y N Both Validated
+Cisco N5kC5596UP Switch-Router 6.0(2)N2(1) Y Y N Both Validated
+Cisco N5kC5596UP Switch-Router 6.0(2)N2(4) Y Y N Both Validated
+Cisco N5kC5596UP Switch-Router 7.0(5)N1(1) Y Y N Both Validated
+Cisco N5KC56128P Switch-Router 7.0(5)N1(1) Y Y N Both Validated
+Cisco C9300-24UX Switch-Router 16.6.3 Y Y N Both Best Effort
+Cisco N9Kc9508 Switch-Router 7.0(3)I7(1) Y Y N Both Validated
+Cisco N77c7706 Switch 8.1(2a) Y Y N Both Validated
+Cisco AIR-CT3504-K9 Wireless Controller 8.5.110.0 Y Y N Both Validated
+Cisco AIR-CT8540-K9 Wireless Controller 8.2.166.0 Y Y N Both Validated
+Cisco WS-C3650-48PS Switch-Router 16.6.3 Y Y N Both Best Effort
+Cisco N9KC9332PQ Switch-Router 7.0(3)I4(2) Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 54Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco ASR-907 Router 15.6(2)SP2 Y Y N Both Validated
+Cisco C385024XS Switch-Router IOS-XE 03.07.02.E Y Y N Both Validated
+Cisco WS-C3850-24XS-E Switch-Router 16.6.1 Y Y N Both Validated
+Cisco N5KC5672UP Switch-Router 7.1(0)N1(1a) Y Y N Both Best Effort
+Cisco N7Kc7009 Switch-Router 7.2(2)D1(2) Y Y N Both Best Effort
+Cisco N5kC5548UP Switch-Router 7.0(8)N1(1) Y Y N Both Validated
+Cisco N9KC93180YCEX Switch-Router 7.0(3)I5(1) Y Y N Both Validated
+Cisco Fpr4110K9 Firewall 5.0(3)N2(4.11) Y Y N Both Best Effort
+Cisco ASR9910 Router IOS-XR 6.4.2[Default] Y Y N Both Best Effort
+Cisco ISR4351 Router 15.5(3)S4b Y Y N Both Validated
+Cisco UCSFI6296UP Switch-Router 5.2(3)N2(2.25c) Y Y N Both Validated
+Cisco WS-C3850-24T-S Switch-Router IOS-XE 03.06.06E Y Y N Both Validated
+Cisco ASR1001X Router 16.4.2 Y Y N Both Validated
+Cisco C9500-12Q Switch-Router 16.9.1 Y Y N Both Validated
+Cisco ciscoCat9300FixedSwitchStack Switch-Router 16.6.3 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 55Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco ASR1002X Router 15.5(3)S6 Y Y N Both Validated
+Cisco WS-C3850-48F-S Switch-Router 03.07.05E Y Y N Both Best Effort
+Cisco Fpr2140td Firewall 2.3(1.121) Y Y N Both Best Effort
+Cisco Fpr2140td Firewall 9.9(2)25 Y Y N Both Validated
+Cisco cat4506 Switch-Router 12.2(53)SG4 Y Y N Both Validated
+Cisco catalyst494810GE Switch-Router 12.2(54)SG1 Y Y N Both Validated
+Cisco catalyst4507re Switch-Router 12.2(54)SG1 Y Y N Both Validated
+Cisco cat4510rpluse Switch-Router 03.07.02.E Y Y N Both Validated
+Cisco cat4507rpluse Switch-Router IOS-XE 03.03.00.SG Y Y N Both Best Effort
+Cisco AIR-AP2802I-B-K9 Wireless Controller 8.5.120.0 Y Y N Both Best Effort
+Cisco css11501 Load Balancer 08.10.5.03 Y Y N Both Validated
+Cisco ISR4321 Router 16.9.4 Y Y N Both Best Effort
+Cisco cat9300Lstack Switch-Router 16.12.02 Y Y N Both Validated
+Cisco Ise3315K9 Security Manager 2.4.0.357 Y Y N Both Best Effort
+Cisco Fpr4120SM24 Firewall 9.6(3)3 Y Y N Both Best Effort
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 56Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco Fpr9000SM24 Firewall 9.6(3)8 Y Y N Both Best Effort
+Cisco IE33008T2S Switch-Router 16.12.02 Y Y N Both Validated
+Cisco N9KC93240YCFX2 Switch-Router 9.3(2) Y Y N Both Best Effort
+Cisco Fpr2110td Firewall 6.3.0.5 Y Y N Both Best Effort
+Cisco Fpr4120SM24 Firewall 9.10(1)7 Y Y N Both Validated
+Cisco Fpr4120SM24 Firewall 9.8(3)16 Y Y N Both Validated
+Cisco C9500-40X Switch-Router 16.9.2 Y Y N Both Validated
+Cisco SNS3595K9 Security Manager 2.6.0.156 Y Y N Both Best Effort
+Cisco SNS3655K9 Security Manager 2.6.0.156 Y Y N Both Best Effort
+Cisco UCSC220M4 Server 2.0(13i) Y Y N Both Validated
+Cisco N9KC9336CFX2 Switch-Router 9.2(3) Y Y N Both Best Effort
+Cisco Fpr4140SM36 Firewall 9.12(2)4 Y Y N Both Best Effort
+Cisco Fpr2110td Firewall 9.9(2)50 Y Y N Both Best Effort
+Cisco Fpr4120SM24 Firewall 9.8(2)28 Y Y N Both Validated
+Cisco MDS9222i Switch 5.0(3)N2(4.04a) Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 57Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco Fpr2130td Firewall 9.12(1)2 Y Y N Both Best Effort
+Cisco ASR9912 Router IOS-XR 6.4.2[Default] Y Y N Both Validated
+Cisco Fpr4140K9 Firewall 5.0(3)N2(4.11) Y Y N Both Validated
+Cisco Fpr4120SM24 Firewall 6.2.3.7 Y Y N Both Best Effort
+Cisco Fpr4110 Firewall 9.9(2) Y Y N Both Best Effort
+Cisco Fpr4120SM24 Firewall 9.8(2)28 Y Y N Both Validated
+Cisco N4KIBMEth Switch 4.1(2)E1(1p) Y Y N Both Validated
+Cisco Fpr9000SM24 Firewall 9.6(3)8 Y Y N Both Best Effort
+Cisco Fpr4140SM36 Firewall 9.12(2)4 Y Y N Both Best Effort
+Cisco Fpr4110SM12 Firewall 9.9(2) Y Y N Both Best Effort
+Cisco Cat9407R Switch-Router 17.1 Y Y N Both Best Effort
+Cisco SNS3655K9 Security Manager 2.4.0.357 Y Y N Both Validated
+Cisco C1111X8P Switch-Router 16.9.3 Y Y N Both Validated
+Cisco N9KC93360YCFX2 Switch-Router 9.3(3) Y Y N Both Validated
+Cisco Fpr4120SM24 Firewall 9.6(3)3 Y Y N Both Best Effort
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 58Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Cisco Fpr4120SM24 Firewall 9.10(1)7 Y Y N Both Validated
+Cisco Fpr4150SM44 Firewall 9.8(4)10 Y Y N Both Validated
+Cisco AIR-CT5520-K9 Wireless Controller 8.10.121.0 Y Y N Both Validated
+Cisco ASR9912 Router IOS-XR 6.4.2[Default] Y Y N Both Validated
+Cisco C1000-24T-4X-L Switch-Router 15.2(7)E1 Y Y Y Both Validated
+Cisco Fpr4110K9 Firewall 5.0(3)N2(4.81) Y Y N Both Best Effort
+Cisco Fpr4110SM12 Firewall 6.2.3.3 Y Y N Both Validated
+Cisco IE33008P2S Switch-Router 16.12.02 Y Y Y Both Validated
+Cisco N9KC93108TCEX Switch-Router 9.3(3) Y Y Y Both Validated
+Cisco VG310 VoIP Gateway 15.4(3)M6a Y Y N Both Validated
+Cisco VG320 VoIP Gateway 15.4(3)M6a Y Y N Both Validated
+Cisco VG224 VoIP Gateway 15.1(4)M9 Y Y N Both Validated
+Cisco WS-C2960S-24PS-L Switch 15.2(2)E8 Y Y Y Both Validated
+NOTE : OpenSSH disabled certain legacy vulnerable ciphers that some Cisco devices and versions relied on for CLI collection. To ensure successful CLI collection for such devices, download and install the hotfix referenced as 
+NIOS-69328 in the Infoblox Knowledge Base article 10068 at https://support.infoblox.com .
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 59Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Citrix NetScaler 7000 Series Load Balancer Y SSH, Telnet N/A Both Validated N
+Citrix NetScaler 9000 Series Load Balancer Y N N/A Both Validated
+Citrix MPX/SDX 11500 Load Balancer NS10.0 Y SSH, Telnet N/A Both Validated
+Citrix NSMPX-7500 Load Balancer 9.2 Y SSH, Telnet N/A Both Validated
+Citrix NSMPX-8000 Load Balancer NS10.1: Build123.9nc N SSH N/A Both Validated
+Citrix NSMPX-8200 Load Balancer NS9.3:Build62.4nc N SSH N/A Both Validated
+Citrix NSSDX-18500 Load Balancer NS10.1: Build 129.11.nc N SSH N/A Both Validated
+Citrix Netscaler 10500 (NSMPX-10500) Load Balancer 9.1, 9.2 N SSH, Telnet N/A Both Validated
+Citrix SDX 11515 Load Balancer 11.0 Y N N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 60Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Citrix NSMPX-8000-10G Load Balancer NS11.0 Build 66.11nc Y SSH N/A Both Validated
+Citrix SDX 11515 Load Balancer 11.0 Y Y N/A Both Validated
+Citrix SDX 22040 Load Balancer 11.0 Y Y N/A Both Validated
+Citrix SDX 8015 Load Balancer 11.0 Y Y N/A Both Validated
+Citrix NSMPX-14000 Load Balancer NS11.1: build 55.13.nc Y Y N Both Validated
+Citrix NSMPX-11500 Load Balancer NS12.0: Build 60.10.nc Y Y N Both Validated
+CumulusNetworks DELL-S4048T-ON Switch 3.5.1 Y Y N Both Validated N
+DCN DCS-3650-26C Switch 6.1.50.2 Y SSH Y NetMRI Validated N
+Dell PowerConnect 5524 Switch-Router 4.1.0.5 Y SSH Y Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 61Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Dell PowerConnect 5548 Switch 4.1.0.5, 2.2.0.3, 
+3.2.1.3, 3.3.1.10, 
+3.3.3.3, 3.3.6.4, 
+3.3.7.2Y SSH Y Both Validated
+Dell PowerConnect 7048 Switch 4.2.0.4 Y Telnet Y Both Validated
+Dell PowerConnect 8024F Switch 3.1.4.5, 4.1.0.9, 
+4.2.0.4, 5.1.2.3Y Telnet N Both Validated
+Dell PowerConnect M6220 Switch 2.2.0.3 Y Telnet N Both Validated
+Dell PowerConnect M8024 Switch 3.1.3.9 Y Telnet N Both Validated
+Dell N3024 Switch-Router 6.0.1.3 Y SSH Y Both Validated
+Dell N3048 Switch-Router 6.0.1.3 Y SSH Y Both Validated
+Dell PowerConnect 6248 Switch-Router 3.3.14.2 Y SSH Y Both Validated
+Dell Powerconnect 8024F Switch-Router 5.1.9.4 Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 62Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Dell N3048EP-ON Switch 6.5.3.34 Y Y N Both Validated
+Dell N3048EP-ON Switch 6.5.1.1 Y Y N Both Validated
+Dell N3048P Switch-Router 6.3.2.7 Y Y N Both Best Effort
+Dell R1-2401 Switch 2.0.0.69 Y Y N Both Validated
+D-Link DES-3200-28P Switch 4.36.B013 Y Y Y Both Validated N
+Emerson GXT3-1500RT120 Power Controller 5.300.0 Y N N Both Validated N
+Emerson GXT2-1000RT120 UPS 5.300.5 Y Y N Both Validated
+Emerson GXT4-1500RT120 UPS 5.300.5 Y Y N Both Validated
+Emerson GXT3-1500RT120 UPS 5.300.5 Y Y N Both Validated
+Enterasys/ Cabletron C3G124x48 Switch-Router 06.03.00.0022 Y SSH, Telnet Y Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 63Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Enterasys C5K125-48P2 Switch-Router 06.61.07.0010 Y SSH, Telnet Y Both Validated
+Enterasys K10 Switch-Router 07.72.01.0021 Y SSH, Telnet Y Both Validated
+Enterasys/ Cabletron Matrix E1 Series Switch Y SSH, Telnet N Both Validated
+Enterasys/ Cabletron Matrix N Series Platinum DFE Switch Y SSH, Telnet N Both Validated
+Enterasys/ Cabletron MatrixN1 Switch 05.42.10 Y SSH, Telnet N Both Validated
+Enterasys MatrixN1 Switch-Router 07.62.05.0001H Y SSH, Telnet Y Both Validated
+Enterasys MatrixN3 Switch 07.62.05.0001H Y SSH, Telnet Y Both Validated
+Enterasys/ Cabletron MatrixN3Gold Switch 06.12.03.003 Y SSH, Telnet N Both Validated
+Enterasys MatrixN7 Switch 07.62.05.0001H Y SSH, Telnet Y Both Validated
+Enterasys MatrixN7Gold Switch 07.62.05.0001H Y SSH, Telnet Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 64Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Enterasys MatrixX4 Switch-Router 02.00.00.0008H 
+02.00.02.0001Y SSH, Telnet Y Both Validated
+Enterasys MatrixX16 Switch-Router 02.00.00.0008H 
+02.00.02.0001Y SSH, Telnet Y Both Validated
+Enterasys/ Cabletron X-Pedition 8000/8600 Series 
+RouterRouter Y SSH, Telnet N Both Validated
+Enterasys/ Cabletron RoamAbout 3000 Series Point Wireless AP Y N N/A Both Validated
+Enterasys S1A Switch-Router 08.11.01.0014 Y SSH, Telnet Y Both Validated
+Enterasys S8 Switch-Router 08.11.01.0014 Y SSH, Telnet Y Both Validated
+Enterasys/ Cabletron SmartSwitch 2000 Series Switch Switch Y N N Both Validated
+Enterasys/ Cabletron SmartSwitch 6000 Series Switch Switch Y N N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 65Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Extreme Alpine Series Switch Y SSH, Telnet N Both Validated N
+Extreme Black Diamond Series Switch Y SSH, Telnet N Both Validated
+Extreme bd8810 Switch 12.3.3.6 Y SSH, Telnet N Both Validated
+Extreme Summit Series Switch-Router Y SSH, Telnet N Both Validated
+Extreme Summit X350-24t Switch 12.3.3.6 Y SSH, Telnet Y Both Validated
+Extreme SummitX450a-48t Switch 12.3.3.6 Y SSH, Telnet Y Both Validated
+Extreme Summit X480-24X Switch-Router 12.5.3.9 Y SSH, Telnet N Both Validated
+Extreme Summit X450G2-48p Switch 16.1.2.14 Y SSH, Telnet N NetMRI Validated
+Extreme Summit X440-48p-10G Switch 15.7.1.4 Y SSH, Telnet N NetMRI Validated
+Extreme X460 G2 Switch 15.7.1.4 Y Y N Both Best Effort
+Extreme x690-48x-4q-2c Switch 22.5.1.7 Y Y N Both Validated
+Extreme summitX450G2-48p Switch-Router 22.3.1.4 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 66Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Extreme OnieStack Switch 30.2.1.8 Y Y N Both Validated
+F5 Big-IP 1600 Load Balancer 9.4.7 Y SSH, Telnet N/A Both Validated N
+F5 BIG-IP 3900 Load Balancer 10.2.2 
+11.2.0 
+11.3.0Y SSH, Telnet N/A Both Validated
+F5 Big-IP 6900 Load Balancer 10.2.0 Y SSH, Telnet N/A Both Validated
+F5 BIG-IP 8400 Load Balancer 10.2.4 Y SSH N/A Both Validated
+F5 Big-IP 8900 Load Balancer 10.2.0 Y SSH, Telnet N/A Both Validated
+F5 Viprion-C2400 Load Balancer 11.3.0 Y SSH N/A Both Validated
+F5 BIG-IP 4200 Load Balancer 11.6.0 Y SSH N/A Both Validated
+F5 BIG-IP 5250 Load Balancer 11.5.4 Y SSH N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 67Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+F5 BIG IP 4000 Load Balancer 11.5.1 Y SSH N/A Both Validated
+F5 BIG-IP 5250 Load Balancer 12.1.2 Y Y N/A Both Validated
+F5 BIG-IP vCMP Guest Load Balancer 11.5.4 Y Y N/A Both Validated
+F5 Viprion-B2150 Load Balancer 11.5.4 Y Y N/A Both Validated
+F5 A112 Load Balancer 11.4.1 Y Y N/A Both Validated
+F5 BIG-IP 10350 Load Balancer 12.1.0 Y Y N Both Validated
+F5 BIG-IP 2000 Load Balancer 11.6.0 Y Y N Both Validated
+F5 BIG-IP 8900F Load Balancer 11.5.4 Y Y N Both Validated
+F5 vCMP Guest Load Balancer 11.6.2 Y Y N Both Validated
+F5 BIG-IP Virtual Edition Load Balancer 12.1.3.3 Y Y N Both Validated
+F5 C109 Load Balancer 11.6.0 Y Y N Both Validated
+F5 BIG-IP 1600 Load Balancer 10.2.4 Y Y N Both Best Effort
+F5 BIG-IP 1600 Load Balancer 11.5.3 Y Y N Both Best Effort
+F5 BIG-IP 3600 Load Balancer 11.5.3 Y Y N Both Best Effort
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 68Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+F5 BIG-IP 3900 Load Balancer 11.5.3 Y Y N Both Best Effort
+F5 BIG-IP 3900 Load Balancer 11.5.4 Y Y N Both Best Effort
+F5 BIG-IP 3900 Load Balancer 12.1.3 Y Y N Both Best Effort
+F5 BIG-IP 5250 Load Balancer 11.5.4 Y Y N Both Best Effort
+F5 BIG-IP 6900F Load Balancer 12.1.3 Y Y N Both Best Effort
+F5 BIG-IP 8900 Load Balancer 11.5.4 Y Y N Both Best Effort
+F5 BIG-IP vCMP Load Balancer 11.5.4 Y Y N Both Best Effort
+F5 BIG-IP Virtual Edition Load Balancer 11.6.1 Y Y N Both Best Effort
+F5 BIG-IP i4600 Load Balancer 12.1.3.3 Y Y N Both Validated
+F5 BIG-IP vCMP Load Balancer 13.1.1.2 Y Y N Both Best Effort
+F5 BIG-IP i5800 Load Balancer 12.1.2 Y Y N Both Validated
+F5 BIG-IP 3900 Load Balancer 11.4.0 Y Y N Both Best Effort
+F5 BIG-IP vCMP Guest Load Balancer 12.1.2 Y Y N Both Best Effort
+F5 BIG-IP 7200 Load Balancer 11.5.4 Y Y N Both Validated
+F5 BIG-IP 1600 Load Balancer 11.6.3 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 69Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+F5 BIG-IP-i2800 Load Balancer 13.1.0.7 Y Y N Both Best Effort
+F5 Enterprise Manager EM4000 Load Balancer 3.1.1 Y Y N Both Validated
+F5 BIG-IP Virtual Edition Load Balancer 15.0.1 Y Y N Both Best Effort
+F5 BIG-IP 10200F Load Balancer 11.5.5 Y Y N Both Validated
+F5 BIG-IP 2000 Load Balancer 11.5.4 Y Y N Both Validated
+F5 BIG-IP 7000 Load Balancer 11.5.4 Y Y N Both Validated
+F5 BIG-IP 7050 Load Balancer 11.5.4 Y Y N Both Validated
+F5 BIG-IP 7250 Load Balancer 11.5.5 Y Y N Both Validated
+F5 Viprion-B4300 Load Balancer 12.1.2 Y Y N Both Validated
+F5 Viprion-B4450N Load Balancer 13.1.1.2 Y Y N Both Validated
+F5 BIG-IP i11800 Load Balancer 14.1.2.1 Y Y N Both Validated
+F5 BIG-IP i2600 Load Balancer 14.1.2.1 Y Y N Both Validated
+Force10 E Series Core Switch/Router Switch, Router Y SSH, Telnet N Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 70Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Force10 m-IOA Switch 9.4(0.0P1) Y SSH N Both Validated
+Force10 m-MXL Switch 8.3.16.4 Y SSH N Both Validated
+Force10 s4810 Switch, Router 9.1(0.0) Y SSH Y Both Validated
+Force10 s4810 Switch, Router 9.2(0.2) Y SSH Y Both Validated
+Force10 s3148p Switch-Router 9.14(0.1) Y Y N Both Validated
+Force10 S-IOA Switch-Router 9.13(0.2) Y Y N Both Validated
+Force10 S4048-ON Switch-Router 9.14(0.1) Y Y N Both Validated
+Force10 e610 Switch-Router 8.3.1.5 Y Y N Both Validated
+Force10 s3048on Switch-Router 9.11(0.0P6) Y Y N Both Validated
+Force10 s3148 Switch-Router 9.13(0.2) Y Y N Both Validated
+Force10 s4048on Switch-Router 9.11(2.6) Y Y N Both Best Effort
+Force10 s3148 Switch-Router 9.11(2.6) Y Y N Both Validated
+Force10 s4048on Switch-Router 9.11(2.1) Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 71Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Force10 s55 Switch-Router 8.3.5.6 Y Y N Both Validated
+Force10 s25n Switch-Router 8.2.1.2 Y Y N Both Validated
+Force10 s4810 Switch-Router 9.11(0.0P4) Y Y N Both Validated
+Force10 s3048on Switch-Router 9.11(2.7) Y Y N Both Validated
+Force10 s50v Switch-Router 8.3.2.0 Y Y N Both Best Effort
+Fortinet Fortigate 60B (fgt60B) Firewall 4.0.2 
+4.0.3Y SSH, Telnet N/A Both Validated N
+Fortinet Fortigate 60D (fgt60D) Firewall 5.00.6, 5.00.7, 5.0.9, 
+5.0.0.P9Y SSH N/A Both Validated
+Fortinet Fortigate 92D Firewall 5.2.4 Y SSH N/A Both Validated
+Fortinet Fortigate 100D (fgt100D) Firewall 4.0MR3.P12 Y SSH N/A Both Validated
+Fortinet Fortigate 110C (fgt110C) Firewall 4.0.1 Y SSH, Telnet N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 72Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Fortinet Fortigate 111C (fgt111C) Firewall 4.0MR3.P12 Y SSH N/A Both Validated
+Fortinet Fortigate 140D Firewall 5.2.5 Y SSH N/A Both Validated
+Fortinet Fortigate 200B (fgt200B) Firewall 4.0.2 
+4.0.0Y SSH, Telnet N/A Both Validated
+Fortinet Fortigate 300A (fgt300A) Firewall 4.0.7 Y SSH, Telnet N/A Both Validated
+Fortinet Fortigate 300C (fgt300C) Firewall 4.0.7 Y SSH, Telnet N/A Both Validated
+Fortinet Fortigate 311B (fgt311B) Firewall 4.0.MR3.P12 Y SSH N/A Both Validated
+Fortinet Fortigate 1000C (fgt1000C) Firewall 5.0.0.P3 Y SSH N/A Both Validated
+Fortinet Fortigate 3040B (fgt3040B) Firewall 4.0.MR3.P11 Y SSH N/A Both Validated
+Fortinet Fortigate 3600C (fgt3600C) Firewall 5.0.0 Y SSH, Telnet N/A Both Validated
+Fortinet Fortigate 3810A (fgt3810A) Firewall 4.0.MR3.P11 Y SSH N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 73Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Fortinet Fortigate FGT500D Firewall 5.2.7 Y SSH N/A Both Validated
+Fortinet Fortigate FGT200D Firewall 5.2.7 Y SSH N/A Both Validated
+Fortinet fgt600C Firewall 4.0.MR3.P11 Y SSH N/A NetMRI Validated
+Fortinet fgt800C Firewall 5.2.10 Y N/A N/A Both Validated
+Fortinet fgt1000C Firewall 5.2.10 Y N/A N/A Both Validated
+Fortinet fg60dc Firewall 5.4.2 Y Y N/A NetMRI Validated
+Fortinet fgt50E Firewall 5.4.3 Y SSH N/A NetMRI Validated
+Fortinet fgt3140B Firewall 5.0.7 Y SSH N/A NetMRI Validated
+Fortinet fgt1500D Firewall 5.2.10 Y N/A N/A Both Validated
+Fortinet fgt1500D Firewall 5.4.0 and 5.4.1 Y SSH N/A NetMRI Validated
+Fortinet fgt3HD Firewall 5.2.4 Y SSH N/A NetMRI Validated
+Fortinet fgt1500D Firewall 5.2.10 Y Y N/A Both Validated
+Fortinet fgt1000c Firewall 5.2.10 Y Y N/A Both Validated
+Fortinet fgt800c Firewall 5.2.10 Y Y N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 74Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Fortinet FortiGate-VM64 Firewall 5.4.2 Y Y N/A Both Validated
+Fortinet FGT-1200D Firewall 5.2.8 Y Y N/A Both Validated
+Fortinet fgt1500D Firewall 5.4.4 Y Y N Both Validated
+Fortinet fgt3000 Firewall 5.4.5 Y Y N Both Validated
+Fortinet fgt61E Firewall 5.6.3 Y Y N Both Validated
+Fortinet fgt1500D Firewall 5.2.5 Y Y N Both Validated
+Fortinet fgt1500D Firewall 5.2.6 Y Y N Both Validated
+Fortinet FortiManager-200D Security Appliance 5.4.5-build1235(GA) Y Y N Both Validated
+Fortinet FortiManager-1000D Security Appliance 5.2.10-build0786(GA) Y Y N Both Validated
+Fortinet FortiAnalyzer-3000E Security Appliance 5.2.10-build0786(GA) Y Y N Both Validated
+Fortinet fgt1000D Firewall 5.4.5 Y Y N Both Best Effort
+Fortinet fgt3700D Firewall 5.2.10 Y Y N Both Validated
+Fortinet fgt3240C Firewall 5.2.3 Y Y N Both Best Effort
+Fortinet fgt90DPOE Firewall 5.6.2 Y Y N Both Best Effort
+Fortinet fgt1500D Firewall 5.2.9 Y Y N Both Best Effort
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 75Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Fortinet fgt600D Firewall 5.6.6 Y Y N Both Validated
+Fortinet fgt500E Firewall 5.6.6 Y Y N Both Validated
+Fortinet fgt3800D Firewall 5.6.6 Y Y N Both Validated
+Fortinet FortiManager-4000E Security Appliance 5.6.8-build1800 (GA) Y Y N Both Validated
+Fortinet FortiAnalyzer-3000E Security Appliance 5.4.6-build1244 180904 
+(GA)Y Y N Both Validated
+Fortinet FortiAnalyzer-3500F Security Appliance v5.4.4-build1225 171005 
+(GA)Y Y N Both Validated
+Fortinet fgt3601E Firewall 6.0.7 Y Y N Both Validated
+Fortinet fgt100E Firewall 6.2.2 Y Y N Both Validated
+Fortinet fgt501E Firewall 6.2.0 Y Y N Both Validated
+Fortinet FortiAnalyzer-200D Security Appliance 6.0.7-build0405(GA) Y Y N Both Validated
+Fortinet fgt3401E Firewall 6.0.7 Y Y N Both Best Effort
+Fortinet fgt501E Firewall 6.0.5 Y Y N Both Best Effort
+Fortinet fgtVM64AZUREONDEMAND Firewall 5.6.6 Y Y N Both Validated
+Fortinet fgt100E Firewall 5.6.6 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 76Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Fortinet fw60DP Firewall 6.0.9 Y Y N Both Validated
+Fortinet fgt500E Firewall 5.6.12 Y Y N Both Best Effort
+Fortinet fgt501E Firewall 5.6.8 Y Y N Both Best Effort
+FireEye wMPS4310 Firewall 7.2.1 Y SSH N/A Both Validated N
+GarretCom magnum6k25e Switch 14.1.9 Y SSH SetIntfAdmin 
+Status, 
+SetIntfDescrBoth Validated N
+Gigamon GigaVUE-HC2 Switch 4.4.02 Y N N Both Validated N
+Gigamon GigaVUE-HC2 Switch 4.8.01 Y Y N NetMRI Validated
+Gigamon GigaVUE-GV420 Visibility Appliance v8.6.11 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 77Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Gigamon GigaVUE-HB1 Visibility Appliance 4.7.01 Y Y N Both Validated
+Gigamon GigaVUE-HC2 Visibility Appliance 4.4.01 Y Y N Both Validated
+Gigamon GigaVUE-HC2 Visibility Appliance 4.4.02 Y Y N Both Validated
+Gigamon GigaVUE-HC2 Visibility Appliance 4.7.00 Y Y N Both Validated
+Gigamon GigaVUE-HC2 Visibility Appliance 5.1.03 Y Y N Both Validated
+Gigamon GigaVUE-TA10 Visibility Appliance 4.7.00 Y Y N Both Validated
+H3C (HP) hpA360024V2EI Switch 5.20.99, Release 
+2101P01Y SSH Y Both Validated N
+H3C (HP) hp7506 Switch 5.20, Release 6708P03 Y SSH Y Both Validated
+H3C hpA512048GPoEPlusEI2SLOT Switch 5.20.99 Release 2220P09 
+5.20 Release 2208P01Y SSH N Both Validated
+H3C (HP) hpA512048GEI Switch 5.20 Release 2208P01 Y SSH N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 78Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+H3C hpA550024GPoEPlusEI2SLOT Switch 5.20.99 Release 2220P02 Y Telnet Y Both Validated
+H3C hpA5820X24XGSFPPlus Switch 5.20.105, Release 
+1808P15Y SSH N Both Validated
+H3C hp5900AF48XG4QSFPPlus Switch 7.1.035, Release 
+2208P01Y SSH N Both Validated
+H3C hp6125XGXLG Switch 7.1.035, Release 2306 Y Telnet N Both Validated
+H3C s2126-ei Switch-Router 3.10, Release 2102P01 Y Telnet Y Both Validated
+H3C MSR930G Router v5.20 Release 2313 Y SSH N Both Validated
+H3C s2403TP-EA Switch-Router 3.10, Release 2108P04 Y Telnet Y Both Validated
+H3C s3552F-EA Switch-Router 5.20, Release 5309 Y Telnet Y Both Validated
+H3C s5500-28C-PWR-EI Switch-Router 5.20 Release 2202P21 Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 79Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+H3C s5500-28F-eI Switch-Router 5.20 Release 2202 Y Telnet Y Both Validated
+H3C s7502e Switch-Router 5.20 Release 6616P01 Y Telnet Y Both Validated
+H3C A360048PoEPlusV2SI Switch-Router 5.20.99, Release 
+2101P01Y SSH N Both Validated
+H3C A512024GPoEPlusEI2SLOT Switch 5.20.99, Release 
+2221P02Y SSH N Both Validated
+H3C A512048GEI2SLOT Switch 5.20.99, Release 2215 Y SSH N Both Validated
+H3C A512024GEI2SLOT Switch 5.20.99, Release 
+2221P02Y SSH N Both Validated
+H3C S5120-28C-PWR-EI Switch-Router 5.20, Release 2208 Y SSH N Both Validated
+H3C s5500-28C-EI Switch-Router 5.20, Release 2208P01 Y SSH N Both Validated
+H3C s3600-52P-PWR-EI Switch-Router 3.10, Release 1702P18 Y SSH N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 80Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+H3C s3600-28P-PWR-SI Switch-Router 3.10, Release 1702P18 Y SSH N Both Validated
+H3C s3600-28P-PWR-EI Switch-Router 3.10, Release 1702P38 Y SSH N Both Validated
+H3C S3100-26TP-EI Switch-Router 3.10, Release 2211P06 Y SSH N Both Validated
+H3C s3600-52P-PWR-SI Switch-Router 3.10, Release 1702P18 Y SSH N Both Validated
+H3C S5120-28C-EI Switch-Router 5.20, Release 2202P06 Y SSH Y Both Validated
+H3C 513024G2SFPPlus2XGTEI Switch-Router 7.1.045, Release 
+3108P01Y SSH Y Both Validated
+H3C 513048GPoEPlus4SFPPlus370W 
+EISwitch-Router 7.1.045, Release 
+3111P07Y SSH Y Both Validated
+H3C 513024GPoEPlus4SFPPlus370W 
+EISwitch-Router 7.1.045, Release 
+3111P07Y SSH Y Both Validated
+H3C 12518AC Switch-Router 12500-CMW710-R7374 Y Y N NetMRI Validated
+H3C 12508AC Switch-Router 12500-CMW710-R7374 Y Y N NetMRI Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 81Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+H3C hh3cS5820V252QF Switch S12500-CMW710-R7375 Y Y N Both Validated
+H3C S12508 Switch 5412Rzl2 Y Y Y Both Best Effort
+H3C S550058CHID Switch-Router 5.20 Release 5501 Y Y N Both Validated
+H3C s5500-58C-HI Switch-Router 5.20 Release 5206 Y Y N Both Validated
+H3C S7606-S Switch-Router 5.20 Release 6708P03 Y Y N Both Validated
+H3C eFF594048SFPPlus6QSFP28 Switch-Router 7.1.070 Y Y N Both Best Effort
+H3C 513048GPoEPlus4SFPPlus1Slot
+HISwitch-Router 7.1.045 Release 1121 Y Y N Both Validated
+H3C 513048GPoEPlus4SFPPlus1Slot
+HISwitch-Router 7.1.045 Release 1121P03 Y Y N Both Validated
+H3C 550024GPoEPlus4SFPHI Switch-Router 7.1.045 Release 1121P03 Y Y N Both Validated
+H3C 550048GPoEPlus4SFPHI Switch-Router 5.20.99 Release 5206 Y Y N Both Validated
+H3C FF594048SFPPlus6QSFP28 Switch-Router 7.1.070, Release 
+2510P02Y Y N Both Validated
+H3C 7506 Switch-Router 7.1.070, Release 7568 Y Y N Both Best Effort
+H3C s12508 Switch-Router S12500-CMW520-
+R1829P01Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 82Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+H3C 19208G Switch-Router v5.20.99, Release 1113 Y Y N Both Validated
+H3C s5500-52C-PWR-E Switch-Router 5.20 Release 2221P25 Y Y N Both Validated
+H3C Moonshot45XGcR16 Switch-Router 7.1.045, Release 
+2432P02Y Y N Both Best Effort
+H3C 7506JD239C Switch-Router 7.1.070 Y Y N Both Best Effort
+H3C A310024SI Switch-Router 5.20.99 Release 5213P08 Y Y N Both Best Effort
+H3C A512024GPoEPlusEI2SLOT Switch-Router 5.20.99 Release 2221P05 Y Y N Both Best Effort
+Harmonic NSG 9000 Series edgeQAM Video QAM Y HTTP N/A Both Validated N
+Harmonic NMX Digital Service Manager 
+SeriesVideo Encoder Y HTTP N/A Both Validated
+Hitachi Cable Apresia 3424GT-SS Switch, Switch- 
+Router7.24.01 Y SSH, Telnet N Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 83Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Hitachi Cable Apresia 4224GT-PSR Switch 6.26.01 Y SSH, Telnet N Both Validated
+Hitachi Cable Apresia 4348GT Switch 6.20.01 Y SSH, Telnet N Both Validated
+HP Procurve 1600m Series Switch Y SSH, Telnet N Both Validated N
+HP Procurve 2424m Series Switch Y SSH, Telnet N Both Validated
+HP Procurve 2524m Series Switch Y SSH, Telnet N Both Validated
+HP 3500YL (J8692A) Switch K.15.03.0005 Y SSH Y Both Validated
+HP 3500zl (J8693A) Switch-Router K.15.04.0023m Y SSH Y Both Validated
+HP Procurve 4000m Series Switch Y SSH, Telnet N Both Validated
+HP Procurve 8000m Series Switch Y SSH, Telnet N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 84Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+HP Procurve 4100gl Series Switch Switch Y SSH, Telnet N Both Validated
+HP Procurve 5300xl Series Switch Switch Y SSH, Telnet N Both Validated
+HP 5406ZL (J8697A) Switch-Router K.15.03.0005 Y SSH Y Both Validated
+HP Procurve 6108 ProCurve Switch Switch Y SSH, Telnet N Both Validated
+HP ProCurve 5412zl (J8698A) Switch-Router K.15.04.0023m Y SSH Y Both Validated
+HP 6200yl (J8992A) Switch K.15.04.0023m Y SSH Y Both Validated
+HP J4865A Switch-Router G.07.117 Y SSH Y Both Validated
+HP J4887A Switch-Router G.07.117 Y SSH Y Both Validated
+HP J4899A Switch-Router H.10.113 Y SSH Y Both Validated
+HP J4899B Switch-Router H.10.113 Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 85Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+HP J4899C Switch-Router H.10.113 Y SSH Y Both Validated
+HP J4900A Switch-Router H.10.113 Y SSH Y Both Validated
+HP J4900B Switch-Router H.10.113 Y SSH Y Both Validated
+HP J4900C Switch-Router H.10.113 Y SSH Y Both Validated
+HP J9627A Switch RA.15.10.0010 Y SSH Y Both Validated
+HP J9089A Switch R.11.44 Y SSH, Telnet Y Both Validated
+HP J9148A Switch W.15.08.0012 Y SSH Y Both Validated
+HP J9091A Switch-Router K.15.09.0012 Y SSH Y Both Validated
+HP ProLiant-GbE2c- 
+InterconnectSwitchSwitch 5.2.9 Y Telnet Y Both Validated
+HP VCEthernetModule Switch 4.01 Y Y Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 86Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+HP J9850A Switch-Router KB.16.01.0006 Y Y Y Both Validated
+HP J9726A Switch WB.16.01.000 Y Y Y Both Validated
+HP J9729A Switch WB.15.18.0011 Y Y Y Both Validated
+HP J9298A Switch J.15.09.0026 Y Y Y Both Validated
+HP J9729A Switch WB.16.02.0015 Y Y Y Both Validated
+HP Aruba-JL255A Switch WC.16.02.0003 Y SSH Y Both Validated
+HP Aruba-JL074A Switch KB.16.01.0004 Y SSH Y Both Validated
+HP J9773A Switch YA.15.17.0008 Y SSH Y Both Validated
+HP J4813A Switch F.05.80 Y SSH Y Both Validated
+HP J9298A Switch J.15.09.0022 Y Y Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 87Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+HP J9088A Switch R.11.107 Y SSH Y Both Validated
+HP J9623A Switch RA.15.15.0008 Y SSH Y Both Validated
+HP J9584A Switch KA.15.09.0012 Y SSH Y Both Validated
+HP J9626A Switch RA.15.17.0008 Y SSH Y Both Validated
+HP J9299A Switch J.15.09.002 Y SSH Y Both Validated
+HP J9279A Switch Y.11.44 Y SSH Y Both Validated
+HP J9146A Switch W.15.14.0012 Y SSH Y Both Validated
+HP J9085A Switch R.11.107 Y SSH Y Both Validated
+HP J9850A Switch KB.16.02.0013 Y SSH Y NetMRI Validated
+HP J9851A Switch 5412Rzl2 Y Y N Both Validated
+HP Aruba-Stack2930 Switch-Router WC.16.04.0008 Y Y Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 88Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+HP Aruba-Stack2930M Switch-Router WC.16.05.0004 Y Y N Both Validated
+HP Aruba-JL357A Switch YC.16.05.0007 Y Y N Both Validated
+HP Aruba-JL357A Switch YC.16.05.0007 Y Y Y Both Validated
+HP Aruba-JL258A Switch WC.16.08.0001 Y Y Y Both Validated
+HP Aruba-Stack3810 Switch-Router KB.16.05.0007 Y Y Y Both Validated
+HP Aruba-Stack3810 Switch-Router KB.16.06.0006 Y Y Y Both Validated
+HP Aruba-JL322A Switch-Router WC.16.04.0008 Y Y N Both Validated
+HP Aruba-JL322A Switch-Router WC.16.05.0007 Y Y N Both Validated
+HP Aruba-JL322A Switch-Router WC.16.05.0009 Y Y N Both Validated
+HP Aruba-JL322A Switch-Router WC.16.06.0006 Y Y N Both Validated
+HP Aruba-JL322A Switch-Router WC.16.07.0002 Y Y N Both Validated
+HP Aruba-JL322A Switch-Router WC.16.08.0001 Y Y N Both Validated
+HP Aruba-JL074A Switch-Router KB.16.04.0008 Y Y N Both Validated
+HP Aruba-JL074A Switch-Router KB.16.08.0001 Y Y N Both Validated
+HP Aruba-JL074A Switch-Router KB.16.04.0008 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 89Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+HP Aruba-JL074A Switch-Router KB.16.08.0001 Y Y N Both Validated
+HP Aruba-JL074A Switch-Router WC.16.02.0018 Y Y N Both Validated
+HP J9850A Switch-Router KB.16.02.0018 Y Y N Both Validated
+HP StackVSF5400R Switch-Router KB.16.05.0007 Y Y N Both Validated
+HP Aruba-JL635A Switch-Router GL.10.04.2000 Y Y Y Both Best Effort
+HP Aruba-JL636A Switch-Router GL.10.04.0010 Y Y Y Both Best Effort
+HP EX4550 Switch-Router 16.10.0009 Y Y N Both Validated
+Huawei ar28-10 Router VRP3.40-RT- 0103(L031) Y Telnet N/A Both Validated N
+Huawei cX600-X8 Router 5.70 Y Telnet N/A Both Validated
+Huawei cX600-X3 Router v5.70 Y Telnet N/A Both Validated
+Huawei Eudemon1000E-U5 Firewall v3.30 Y Telnet N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 90Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Huawei ME60-X16 Router v5.150 Y Telnet N/A Both Validated
+Huawei ne40E-X8 Router 5.70 Y Telnet N/A Both Validated
+Huawei ne40E-X16 Router 5.90 Y SSH, Telnet N/A Both Validated
+Huawei s2326TP-EI Switch 5.70 Y Telnet Y Both Validated
+Huawei s2403H-EI Switch 3.10, Release 0023P11 Y Telnet Y Both Validated
+Huawei s3026 Switch 3.10, Release 0034P01 Y Telnet Y Both Validated
+Huawei s3352P-EI Switch 5.70 Y Telnet Y Both Validated
+Huawei s3526 Switch 3.10 Y Telnet Y Both Validated
+Huawei s3952P-EI Switch-Router 3.10, Release 1510P02 Y Telnet Y Both Validated
+Huawei s5328C-SI Switch 5.30 Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 91Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Huawei s5700-28C-EI-24S Switch-Router 5.130 Y SSH N Both Validated
+Huawei s5700-28C-PWR-SI Switch-Router 5.130 Y SSH N Both Validated
+Huawei s5710-28C-PWR-EI Switch-Router 5.130 Y SSH N Both Validated
+Huawei s9303 Switch 5.70 Y SSH Y Both Validated
+Huawei ce6850-52Q-EI-48T Switch-Router 8.100 Y SSH N Both Validated
+Huawei s5700-52P-PWR-LI-AC Switch-Router 5.130 Y SSH Y Both Validated
+Huawei s2751-28TP-PWR-EI-AC Switch-Router 5.130 Y SSH Y Both Validated
+Huawei s5701-28TP-PWR-LI-AC Switch-Router 5.160 Y SSH Y Both Validated
+Huawei s5700-28X-PWR-LI-AC Switch-Router 5.160 Y SSH N Both Validated
+Huawei s12708lsw Switch-Router 5.160 Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 92Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Huawei ar2220 Router V200R007C00SPC900 Y SSH N/A NetMRI Validated
+Huawei ce5810-48T4S-EI Switch-Router V100R005C10SPC200 Y SSH Y NetMRI Validated
+Huawei ce6851-48S6Q-HI Switch-Router V100R005C10SPC200 Y SSH Y NetMRI Validated
+Huawei ce6850-48T6Q-HI Switch-Router V100R005C10SPC200 Y SSH Y NetMRI Validated
+Huawei ar3260 Router V200R007C00SPC900 Y SSH N/A NetMRI Validated
+Huawei ce6850U-48S6Q-HI Switch-Router V100R005C10SPC200 Y SSH Y NetMRI Validated
+Huawei ce12808S Switch-Router V200R001C00SPC700 Y Y N Both Best Effort
+Huawei ce12804S Switch-Router V100R005C10SPC200 Y Y N Both Best Effort
+Huawei s5700-52P-PWR-LI-AC Switch-Router V200R009C00SPC500 Y Y Y Both Validated
+Huawei ar2220e Router V200R006C10SPC300 Y Y N/A Both Validated
+Huawei 5700-28TP-LI-AC Switch-Router V200R006C00SPC500 Y Y N Both Validated
+Huawei 9712 Switch-Router V200R008C00SPC500 Y Y N Both Validated
+Huawei ne40E-X16A Router V800R007C00SPC100 Y Y N Both Validated
+Huawei ne40E-X2-M8 Router V800R007C10SPC100 Y Y N Both Validated
+Huawei ne40E-X8A Router V800R007C00SPC100 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 93Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Huawei nt20E-S4 Switch-Router V800R008C10SPC500 Y Y N Both Validated
+Huawei s5720-28X-PWR-SI-AC Switch-Router V200R008C00SPC500 Y Y N Both Validated
+Huawei ar3260 Router V200R007C00SPC900 Y Y N Both Validated
+Huawei cX600-X8A Router V800R010C10SPC500 Y Y N Both Validated
+Huawei ce12816 Switch-Router V100R003C00SPC600 Y Y N Both Validated
+Huawei ce12812 Switch-Router V100R003C00SPC600 Y Y N Both Validated
+Huawei ce12808 Switch-Router V100R003C00SPC600 Y Y N Both Validated
+Huawei atn910 Router V200R003C20SPC200 Y Y N Both Validated
+Huawei s5720-36PC-EI-AC Switch-Router V200R010C00SPC600 Y Y N Both Validated
+Huawei s5320-36C-EI-28S-DC Switch-Router V200R011C10SPC600 Y Y N Both Best Effort
+Huawei s9312 Switch-Router V200R010C00SPC600 Y Y N Both Validated
+Huawei s9306 Switch-Router V200R010C00SPC600 Y Y N Both Validated
+Huawei s9306E Switch-Router V200R010C00SPC600 Y Y N Both Validated
+Huawei S6720-30L-HI-24S Switch-Router V200R012C00SPC500 Y Y N Both Validated
+Huawei S5730-60C-PWH-HI Switch-Router V200R012C00SPC500 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 94Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Huawei s5720-16X-PWH-LI-AC Switch-Router V200R010C00SPC600 Y Y N Both Validated
+Huawei S5720-12TP-PWR-LI-AC Switch-Router V200R011C10SPC600 Y Y N Both Validated
+Huawei s5720-36C-PWR-EI-AC Switch-Router V200R011C10SPC600 Y Y N Both Validated
+Huawei s5720-56C-EI-AC Switch-Router V200R011C10SPC600 Y Y N Both Validated
+Huawei ce6855-48T6Q-HI Switch-Router V200R002C50SPC800 Y Y N Both Best Effort
+Huawei S5720-52X-PWR-SI-AC Switch-Router V200R011C10SPC600 Y Y N Both Best Effort
+Huawei ar1220 Router V200R007C00SPCb00 Y Y N Both Best Effort
+Huawei ar1220e Router V200R007C00SPC900 Y Y N Both Best Effort
+Huawei ar1220f Router V200R006C10SPC300 Y Y N Both Best Effort
+Huawei ar1220v Router V200R006C10SPC300 Y Y N Both Best Effort
+Huawei ar19-61 Router 5.20, Release 2207P34 Y Y N Both Best Effort
+Huawei ar208e Router V200R007C00SPC900 Y Y N Both Best Effort
+Huawei ce8860-4C-EI Switch-Router V200R005C10SPC800 Y Y Y Both Best Effort
+Huawei ne20E-8 Router V200R005C05SPC100 Y Y N Both Best Effort
+Huawei s3352P-PWR-EI Switch-Router V100R005C01SPC100 Y Y N Both Best Effort
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 95Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Huawei s5700-28TP-PWR-LI-AC Switch-Router V200R007C00SPC500 Y Y N Both Best Effort
+Huawei s5700-52C-PWR-EI Switch-Router V100R006C01SPC100 Y Y N Both Best Effort
+Huawei s5700S-28P-LI-AC Switch-Router V200R007C00SPC500 Y Y N Both Best Effort
+Huawei s5720-28TP-PWR-LI-AC Switch-Router V200R010C00SPC600 Y Y N Both Best Effort
+Huawei s5720-56C-EI-AC Switch-Router V200R010C00SPC600 Y Y N Both Validated
+Huawei s7706 Switch-Router V200R013C00SPC500 Y Y N Both Best Effort
+Infoblox Network Services Appliance 
+Series with NIOS v5.1r1 and laterNIOS 5.1r1 and later Y N N/A Both Validated Y – NetMRI
+No – 
+Network 
+Insight
+Infinera M301/II/ENC Optical Networking 
+Platformr31a-36 Y N N Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 96Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Juniper ACX1100 Router 12.2R7.1 
+12.3R6.6Y SSH N/A Both Validated Y
+Juniper EX Series Switch Switch Y SSH, Telnet N/A Both Validated
+Juniper EX 2200 Switch-Router 10.4R6.5 Y SSH, Telnet N/A Both Validated
+Juniper EX 3300 Switch-Router 12.3R3.4 Y SSH, Telnet N/A Both Validated
+Juniper EX 4200 Switch-Router 10.2R1.8, 12.3R3.4 
+11.1R3.5Y SSH, Telnet Y Both Validated
+Juniper EX 4300 Switch-Router 14.1X53-D25.2 Y SSH N Both Validated
+Juniper J Series Router Router Y SSH, Telnet N/A Both Validated
+Juniper J2320 Firewall 9.3R4.4 Y SSH, Telnet N/A Both Validated
+Juniper M Series Router Router Y SSH, Telnet N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 97Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Juniper MX Series Router Router Y SSH, Telnet N/A Both Validated
+Juniper MX80 Router 12.1R2.9 Y SSH, Telnet N/A Both Validated
+Juniper SRX 100 Firewall 10.2R3.10 
+11.4R1.6, 
+12.1R6.5Y SSH N/A Both Validated
+Juniper SRX 110 Firewall 12.1X46 Y SSH N/A Both Validated
+Juniper SRX220 Firewall 11.4R7.5, 
+12.1X46Y SSH N/A Both Validated
+Juniper SRX 240 Firewall 10.2R3.10 Y SSH, Telnet N/A Both Validated
+Juniper SRX 3400 Firewall 12.1R2.9 Y SSH N/A Both Validated
+Juniper SRX 3600 Firewall 10.2R3.10, 
+10.4R10.7Y SSH, Telnet N/A Both Validated
+Juniper SRX 5600 Firewall 10.2R3.10 Y SSH, Telnet N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 98Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Juniper SRX 5800 Firewall 10.2R3.10 Y SSH, Telnet N/A Both Validated
+Juniper VSRX Firewall v12.1X46 Y SSH, Telnet N/A Both Validated
+Juniper T1600 Router v10.4X23.1 Y SSH, Telnet N/A Both Validated
+Juniper QFX510048S6Q Switch-Router 13.2X51 Y SSH N Both Validated
+Juniper QFX510024Q Switch-Router 4.1X53-D30-3 Y SSH N Both Validated
+Juniper WX Series Application 
+Acceleration PlatformWOC Y SSH, Telnet N/A Both Validated
+Juniper EX3200 Switch-Router 14.1X53-D40.8 Y SSH N Both Validated
+Juniper EX8208 Switch-Router 12.3R12.4 Y N N Both Validated
+Juniper EX2200 Switch-Router 12.3R6.6 and 12.3R4.6 Y SSH N NetMRI Validated
+Juniper EX4300 Switch-Router 14.1X53-D40.8 Y SSH N NetMRI Validated
+Juniper MX104 Switch-Router 13.3R9.13 Y SSH Y NetMRI Validated
+Juniper MX960 Switch-Router 14.1R7.4z Y SSH N NetMRI Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 99Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Juniper SRX340 Firewall 15.1X49 Y SSH N/A NetMRI Validated
+Juniper SRX345 Firewall 15.1X49-D40.6 Y SSH N/A NetMRI Validated
+Juniper SRX1400 Firewall 12.1X46 Y SSH N/A NetMRI Validated
+Juniper SRX1400 Switch-Router 14.1X53-D40.8 Y SSH Y NetMRI Validated
+Juniper SRX1400 Firewall 12.3X48-D35.7 Y N/A for NI N/A Both Validated
+Juniper QFX520032C32Q Switch-Router 15.1X53-D205.2 Y SSH Y NetMRI Validated
+Juniper QFX1000236Q Switch-Router 15.1X53-D61.7 Y SSH Y NetMRI Validated
+Juniper EX9214 Switch-Router 13.3R5.9 Y Y N Both Validated
+Juniper EX4550 Switch-Router 12.3R9.4 Y Y N Both Validated
+Juniper SRX 1400 Firewall 12.3X48-D35.7 Y Y N/A Both Validated
+Juniper EX2300 Switch-Router 15.1X53-D56 Y Y N Both Validated
+Juniper SRX300 Firewall 15.0(1)M1 Y Y N/A Both Validated
+Juniper SRX300 Firewall 15.1X49-D75.5 Y Y N/A Both Validated
+Juniper SRX1500 Firewall 15.1X49-D120.3 Y Y N/A Both Validated
+Juniper SRX320-POE Firewall 15.1X49-D70.3 Y Y N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 100Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Juniper EX3400-48P Switch-Router 15.1X53-D58.3 Y Y N Both Validated
+Juniper EX4300 Switch-Router 17.2R2.8 Y Y N Both Validated
+Juniper EX4600 Switch-Router 17.3R3-S1.5 Y Y Y NetMRI Validated
+Juniper MX204 Router 18.1R2.5 Y Y N Both Validated
+Juniper MX480 Router 16.1R6.7 Y Y N Both Validated
+Juniper SRX1500 Firewall 15.1X49-D70.3 Y Y N Both Validated
+Juniper SSG-350M Firewall 6.3.0r25.0 Y Y N Both Validated
+Juniper QFX3000-G Switch 14.1X53-D121.4 Y Y N Both Validated
+Juniper SRX550 Router 12.3X48-D40.5 Y Y N Both Validated
+Juniper EX3400-48T Switch-Router 15.1X53-D55 Y Y N Both Validated
+Juniper EX4600 Switch-Router 14.1X53-D35.3 Y Y N Both Best Effort
+Juniper MX-2800 Wireless Controller 8.0.3.17.0 Y Y N Both Best Effort
+Juniper EX9208 Switch-Router 16.1_r6 Y Y N Both Validated
+Juniper EX4550-32F Switch-Router 12.3R3.4 Y Y N Both Validated
+Juniper EX2300-48P Switch-Router 15.1_x53_d590 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 101Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Juniper QFX10008 Switch-Router 15.1_x53_d66 Y Y N Both Validated
+Juniper SRX550 Firewall 12.3X48-D40.5 Y Y N Both Validated
+Juniper SRX240 Firewall 15.1X49 Y Y N Both Validated
+Juniper EX4300-48MP Switch-Router 18.4R1.8 Y Y Y Both Validated
+Juniper QFX510024Q Switch-Router 18.1R3-S7.1 Y Y Y Both Validated
+Juniper QFX512048Y8C Switch-Router 18.4R2-S1.4 Y Y N Both Best Effort
+Juniper EX4300-48P Switch-Router 17.3R3-S5.2 Y Y Y Both Validated
+Juniper EX3400-24P Switch-Router 15.1_x53_d590 Y Y Y Both Validated
+Juniper QFX510096S8Q Switch-Router 15.1R6.7 Y Y Y Both Validated
+Juniper SRX4200 Firewall 15.1X49-D150.2 Y Y N Both Validated
+Juniper EX3400-48P Switch-Router 15.1X53-D57.3 Y Y Y Both Validated
+Juniper  EX4300 Switch-Router 14.1X53-D42.3 Y Y Y Both Best Effort
+Juniper QFX512032C Switch-Router 20.2R1.10 Y Y N Both Validated
+Juniper EX4550 Switch-Router 15.1R7-S4 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 102Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Motorola Vanguard 320 Series Router Router Y N N/A Both Validated N
+Motorola Vanguard 340 Series Router Router Y N N/A Both Validated
+Motorola Vanguard 6400 Series Router Router Y N N/A Both Validated
+Motorola BSR1000 Series Broadband 
+Services CMTS/RouterRouter Y SSH, Telnet N/A Both Validated
+Motorola BSR64000 Series CMTS/Edge 
+RouterRouter Y SSH, Telnet N/A Both Validated
+Motorola SEMV8 Series Encryptor 
+ModulatorVideo QAM Y SNMP N/A Both Validated
+Moxa edsg512epoe Switch 4.1 build 15010918 Y SSH Y Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 103Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Moxa NP6650-16 Console Server  1.12 Build 15063014 Y Y N/A Both Validated
+Moxa iks6728apoe Switch 4.1 Y Y N Both Validated
+Moxa eds510a Switch-Router V3.8.6 build 17111610 Y Y N Both Validated
+Moxa eds516a Switch-Router V3.8.10 build 18041008 Y Y N Both Validated
+Moxa edsp510 Switch-Router V3.8.6 build 17111610 Y Y N Both Validated
+NEC NEC IX Series IX2105 Router 9.0.54 Y SSH, Telnet N/A Both Validated N
+Netscreen Netscreen Firewall Family Firewall Y SSH, Telnet N/A Both Validated Y – NetMRI
+No – 
+Network 
+InsightNetscreen ISG1000 Firewall 6.3.0r3.0 Y SSH, Telnet N/A Both Validated
+Netscreen SSG140 Firewall 6.2.0r15.0 Y SSH, Telnet N/A Both Validated
+Netscreen SSG520 Firewall 6.3.0r6-cgv1.0 Y SSH N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 104Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Netscreen SSG550 Firewall 6.2, 
+6.3Y SSH N/A Both Validated
+Netscreen SSG5 Firewall 6.3.0r21.0 Y SSH N/A Both Validated
+Nortel/Avaya 4500 Series Ethernet Routing 
+SwitchSwitch-Router Y N N Both Validated N
+Nortel/Avaya 5500 Series Ethernet Routing 
+SwitchSwitch-Router Y SSH, Telnet N Both Validated
+Nortel/Avaya Alteon Application Switch Family Switch Y N N Both Validated
+Nortel/Avaya BayStack ARN Series Router Router Y SSH, Telnet N/A Both Validated
+Nortel/Avaya BayStack 350 Series Switch Switch Y N N Both Validated
+Nortel/Avaya BayStack 380 Series Switch Switch Y SSH, Telnet N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 105Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Nortel/Avaya BayStack 420 Series Switch Switch Y SSH, Telnet N Both Validated
+Nortel/Avaya BayStack 425 Series Switch Switch Y SSH, Telnet N Both Validated
+Nortel/Avaya BayStack 450 Series Switch Switch Y N N Both Validated
+Nortel/Avaya BayStack 460 Series Switch Switch Y SSH, Telnet N Both Validated
+Nortel/Avaya BayStack 470 Series Switch Switch Y SSH, Telnet N Both Validated
+Nortel/Avaya BayStack BPS2000 Series Switch Switch Y SSH, Telnet N Both Validated
+Nortel/Avaya Contivity 1000 Series VPN Switch VPN Y N N/A Both Validated
+Nortel ERS-4526T Switch 5.3.2.007 Y SSH N Both Validated
+Nortel/Avaya ERS-4526T-PWR Switch-Router 5.3.3.010 Y SSH, Telnet Y Both Validated
+Nortel ERS-4548GT-PWR Switch 5.7.0.009 Y SSH Y Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 106Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Nortel ERS-4550T Switch 5.3.2.007 Y SSH N Both Validated
+Nortel ERS-4850GTS-PWR-PLUS Switch 5.6.3.025 Y Telnet Y Both Validated
+Nortel ERS-5650-TD-PWR Switch-Router 6.2.6.034 Y Telnet Y Both Validated
+Nortel ERS-5698-TFD-PWR Switch-Router 6.2.6.034 
+6.2.6.035Y Telnet Y Both Validated
+Nortel ERS-8306 Switch-Router 4.2.3.0 Y Telnet Y Both Validated
+Nortel ERS-8310 Switch-Router 4.2.3.2 Y SSH N/A Both Validated
+Nortel ERS-8606 Switch-Router 5.1.8.1 Y SSH, Telnet N Both Validated
+Nortel/Avaya EthernetRoutingSwitch5530- 
+24TFDSwitch-Router 6.1.5.014 Y SSH, Telnet N Both Validated
+Nortel/Avaya Optical Metro 1000 Series 
+Ethernet Services ModuleSwitch Y N N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 107Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Nortel/Avaya Passport 1000 Routing Switch 
+SeriesSwitch-Router Y SSH, Telnet N Both Validated
+Nortel/Avaya Passport 1600 Routing Switch 
+SeriesSwitch-Router Y SSH, Telnet N Both Validated
+Nortel/Avaya Passport 8600 Routing Switch 
+SeriesSwitch-Router Y SSH, Telnet N Both Validated
+Nortel VSP-7024XLS Switch-Router 10.2.0.006 Y Telnet N Both Validated
+Nortel VSP9012 Switch-Router 3.3.2.1, 3.4.0.1 Y Telnet N Both Validated
+Nortel VSP4450GSXPWRPLUS Switch-Router 5.0.0.0 Y Y Y Both Validated
+Nortel/Avaya VPN Router 5000 Series VPN Y N N/A Both Validated
+Nortel VSP4850GTS Switch-Router 5.1.1.4 Y SSH Y Both Validated
+Nortel ERS-8606 Switch-Router 7.2.24.0 Y SSH, Telnet N NetMRI Validated
+Nortel BayStack5520-48T-PWR Switch-Router 6.3.5.025 Y SSH Y NetMRI Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 108Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Nortel BayStack5510-48T Switch-Router 6.3.5.025 Y SSH Y NetMRI Validated
+Nortel ERS-3510GT-PWR-PLUS Switch-Router 5.2.0.004 Y SSH Y NetMRI Validated
+Nortel ERS5952GTS-PWR-PLUS Switch-Router 7.3.0.241 Y SSH Y NetMRI Validated
+Nortel VSP7254XSQ Switch-Router 5.1.1.1 Y SSH Y NetMRI Validated
+Nortel VSP8404 Switch-Router 5.1.1.3 Y SSH Y NetMRI Validated
+Nortel VSP8284XSQ Switch-Router 5.1.1.3 Y SSH Y NetMRI Validated
+Nortel VSP4850GTS Switch-Router 5.1.1.1 Y SSH Y NetMRI Validated
+Nortel VSP4850GTSPWRPLUS Switch-Router 5.1.1.4 Y SSH Y NetMRI Validated
+Nortel ERS-8810 Switch-Router 7.2.22.0 Y SSH Y NetMRI Validated
+Nortel ERS-4850GTS-PWR-PLUS Switch-Router 5.10.0.207 Y Y N Both Validated
+Nortel VSP7254XSQ Switch-Router 5.1.1.1 Y Y N Both Validated
+Nortel VSP4850GTS-PWR-PLUS Switch-Router 5.1.1.0 Y Y N Both Validated
+Nortel VSP-7024XLS Switch-Router 10.4.0.003 Y Y N Both Validated
+Nortel VSP4450GSXPWRPLUS Switch-Router 5.1.1.3 Y Y N Both Validated
+Nortel ERS-8806 Switch-Router 7.2.24.0 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 109Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Nortel VSP7254XTQ Switch-Router 5.1.1.3 Y Y Y Both Validated
+Nortel ERS-4850GTS-PWR-PLUS Switch-Router 5.10.0.207 Y Y N Both Validated
+Nortel ERS-8810 Switch-Router 7.2.11.0 Y Y N Both Validated
+Nortel VSP8404 Switch-Router 4.2.2.0 Y Y Y Both Validated
+Nortel VSP8404 Switch-Router 5.1.1.3 Y Y Y Both Validated
+Nortel VSP4450GSXPWRPLUS Switch-Router 4.2.2.0 Y Y Y Both Validated
+Nortel VSP8284XSQ Switch-Router 4.2.1.0 Y Y Y Both Validated
+Nortel ERS5952GTS-PWR-PLUS Switch-Router 7.0.1.017 Y Y Y Both Validated
+Nortel ERS4950GTS-PWR-PLUS Switch-Router 7.4.0.215 Y Y N Both Validated
+Nortel ERS-5530-24TFD Switch-Router 6.3.5.025 and 5.0.6.027 Y Y Y Both Validated
+Nortel ERS-5698-TFD Switch-Router 6.6.3.015 Y Y Y Both Validated
+Nortel VSP4850GTSPWRPLUS Switch-Router 5.1.1.3 Y Y Y Both Validated
+Nortel VSP9012 Switch-Router 4.1.3.0 Y Y N Both Validated
+Nortel ERS-8610 Switch-Router 7.2.10.1 Y Y N Both Best Effort
+Nortel VSP-8608 Switch-Router 6.3.1.0 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 110Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Opengear IM7248-2-DAC-LMV Console Server 3.10.0-uc0 Y SSH N/A NetMRI Validated N
+Palo Alto Networks PA-3050 Firewall 5.0.9 Y SSH N/A Both Validated Y
+Palo Alto Networks PS-4000 Enterprise Firewall 
+SeriesFirewall Y SSH, Telnet N/A Both Validated
+Palo Alto Networks PA-5020 Firewall 5.0.12 Y SSH N/A Both Validated
+Palo Alto Networks PA-200 Firewall 4.1.6 Y SSH, Telnet N/A Both Validated
+Palo Alto Networks PA-5050 Firewall 6.1.3 Y SSH N/A Both Validated
+Palo Alto Networks PA-5060 Firewall 6.1.10 Y Y N/A Both Validated
+Palo Alto Networks PA-7050 Firewall  8.0.2 Y Y N/A Both Best Effort
+Palo Alto Networks PA-5060 Firewall  7.1.8 Y Y N/A Both Best Effort
+Palo Alto Networks PA-5020 Firewall  8.0.2 Y Y N/A Both Best Effort
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 111Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Palo Alto Networks PA-5050 Firewall 7.1.14 Y Y N Both Validated
+Palo Alto Networks PA-5220 Firewall 8.0.10 Y Y N Both Validated
+Palo Alto Networks PA-5260 Firewall 8.0.11-h1 Y Y N Both Validated
+Palo Alto Networks PA-5050 Firewall 8.0.11-h1 Y Y N Both Best Effort
+Palo Alto Networks PA-5060 Firewall 8.0.11-h1 Y Y N Both Validated
+Palo Alto Networks PA-5060 Firewall 8.0.1 Y Y N Both Validated
+Palo Alto Networks PA-3020 Firewall 8.0.1 Y Y N Both Validated
+Palo Alto Networks PA-5220 Firewall 8.0.5 Y Y N Both Validated
+Palo Alto Networks PA-500 Firewall 8.0.5 Y Y N Both Best Effort
+Palo Alto Networks PA-7050 Firewall 7.1.13 Y Y N Both Validated
+Palo Alto Networks PA-2020 Firewall 5.0.15 Y Y N Both Validated
+Palo Alto Networks PA-5220 Firewall 8.0.12 Y Y N Both Validated
+Palo Alto Networks PA-5220 Firewall 8.0.10 Y Y N Both Validated
+Palo Alto Networks PA-3020 Switch-Router 8.0.12 Y Y N Both Validated
+Palo Alto Networks PA-5220 Firewall 8.0.9 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 112Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Palo Alto Networks PA-200 Firewall 8.0.0 Y Y N Both Validated
+Palo Alto Networks PA-5020 Firewall 7.1.14 Y Y N Both Validated
+Palo Alto Networks PA-5220 Firewall 8.1.8-h5 Y Y N Both Validated
+Palo Alto Networks PA-5250 Firewall 9.0.3-h3 Y Y N Both Validated
+Proxim ORiNOCO AP2000 Series Access 
+PointWireless AP N N N/A Both Validated N
+Raisecom rc551E-4GE Switch ROS_4.14.1461.RC551E-
+4GE.36.20110317Y SSH N NetMRI Validated N
+Raisecom RAX711 Switch REAP_1.2.1434 Y SSH N NetMRI Validated
+Raisecom RAX711-AC_DC Switch REAP_1.2.1434 Y Y N Both Validated
+Raritan DSX2-16M Console Server Raritan OS Y Y N Both Best Effort N
+Raritan DSX2-32-3 Raritan OS Raritan OS Y Y N Both Best Effort
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 113Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Riverbed Steelhead Series WAN 
+Optimization ApplianceWOC Y SSH, Telnet N/A Both Validated Y
+Riverbed Steelhead EX1160L WOC 4.5.0 Y Y N Both Validated
+Riverbed Steelhead EX1160VH WOC 4.3.2 Y Y N Both Validated
+Riverbed Steelhead EX1160VH WOC 4.5.0 Y Y N Both Validated
+Riverbed Steelhead EX1160VH WOC 4.6.0 Y Y N Both Validated
+Riverbed Steelhead EX560L WOC 4.5.0 Y Y N Both Validated
+Riverbed Steelhead EX560M WOC 4.5.0 Y Y N Both Validated
+Riverbed Steelhead SF3100W3 WOC 4.5.0 Y Y N Both Validated
+Riverbed SteelHead CX570H WOC 9.9.0b Y Y N Both Validated
+NOTE : 
+NetMRI for Riverbed models Smart-1 3050, 5600, and 23500: To enable Advisor support, create the following file in the specified directory: /var/home/admin/Backup/useRiverbedAdvisor.
+Network Insight: Advisor support is disabled by default, but you can contact Infoblox support  to enable it.
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 114Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Riverstone ES Series Switch Switch Y N N Both Validated N
+Ruggedcom RS900 Switch 3.12.2 Y SSH N Both Validated N
+Ruggedcom RS416 Switch (Terminal 
+Server)v3.11.0, v3.12.2, v3.12.4 Y SSH N Both Validated
+Ruggedcom RSG2100 Switch 3.12.1 
+3.12.2Y SSH N Both Validated
+Ruggedcom RS416 Console Server 4.3.3 Y Y N/A Both Validated
+Ruggedcom RSG2100 Switch 4.3.3 Y Y N/A Both Validated
+Ruggedcom RSG2288 Switch 4.3.3 Y Y N/A Both Validated
+Ruggedcom RX1511 Switch-Router 2.9.0 Y Y N Both Best Effort
+Ruggedcom RX1500 Switch-Router 2.9.1 Y Y N Both Best Effort
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 115Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Ruggedcom RX1510 Switch-Router 2.9.1 Y Y N Both Best Effort
+Ruggedcom RX1400 Switch-Router 2.11.0 Y Y N Both Best Effort
+Scientific Atlanta 9000 Series Encoders Video Encoder Y SSH, Telnet N/A Both Validated N
+Scientific Atlanta D9479 GQAM Modulator Video QAM Y SNMP N/A Both Validated
+Scientific Atlanta D9477 MQAM Modulator Video QAM Y SNMP N/A Both Validated
+SeaChange VOD Server Family Video Monitor Y N N/A Both Validated N
+SEL SEL-3610 Console Server R203 Y SSH N/A Both Validated N
+SEL SEL-3620 Console Server R203 Y SSH N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 116Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+ServerTech CW-16V1-C20MX PDU 6.1d Y Y N Both Validated N
+SilverPeak NX7700 WOC 8.1.5.14 Y Y N Both Validated N
+SilverPeak NX10700 WOC 8.1.5.14 Y Y N Both Validated
+SilverPeak NX3700 SD-WAN 8.1.7.5 Y Y N Both Validated
+SilverPeak ECXS SD-WAN 8.1.7.14 Y Y N Both Validated
+Sencore MRD 3187 Series Decoders Video Receiver Y HTTP N/A Both Validated N
+Sonicwall SRA EX-7000 VPN Appliance VPN 10.5.4-041 Y N N/A Both Validated N
+Sonicwall PRO 2040 Series UTM/Firewall/ 
+VPN ApplianceFirewall Y N N/A Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 117Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Sonicwall TZ 190 Series Appliance Firewall Y HTTP N/A Both Validated
+Spectracom NetClock 9489 Time Server 5.7.1 Y N N Both Validated N
+Symbol ap5131 Wireless AP 2.2.2.0-001R Y SSH N/A Both Validated N
+Symbol rfs6000 Wireless Controller 5.7.0.0-057R Y Y N Both Best Effort
+Talari E100 SD-WAN OS5.1 Y Y N Both Validated N
+Talari T3010 SD-WAN R7_0_GA_P2_09252017 Y Y N Both Best Effort
+Talari T860 SD-WAN R7_0_GA_P2_09252017 Y Y N Both Best Effort
+Tandberg RX8300 Series Decoder Video Receiver Y HTTP N/A Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 118Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Tandberg ViPENC_006 Video Encoder 2.3.3 Y SSH N/A Both Validated
+Terayon CherryPicker Series Video 
+ProcessorVideo Groomer Y SSH, Telnet N/A Both Validated N
+Terayon CP-7600 Series Decoder Video Decoder Y SNMP N/A Both Validated
+Transition SISGM1040-184D-LRT Switch V1.00.03 Y Y N Both Validated N
+Ubiquiti UniFi-Gateway-3 Firewall 4.4.50 Y Y N Both Best Effort N
+Uplogix 5000 Console Server 5.4.3.31895 Y Y N Both Validated N
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 119Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+Vecima CableVista CV1100 Series 
+DecoderVideo Decoder Y HTTP N/A Both Validated N
+Viptela vedge1000AC SD-WAN 18.2 Y Y N NetMRI Validated N
+Viptela vedge100BAC SD-WAN 7.4.6 Y Y N Both Validated
+Xirrus XN8 Switch 5.1.2-1639 Y SSH Set Admin Status Both Validated N
+Yamaha RTX 810 Router 11.01.04 Y SSH, Telnet N/A Both Validated N
+Yamaha RTX 1200 Router 10.01.38 Y SSH, Telnet N/A Both Validated
+ZTE ZXR10-5960-64DL-H Switch-Router 3.02.20.B32.P05 Y Y N Both Validated N
+ZTE ZXR10-8905 Switch-Router 4.08.24R1 Y Y N Both Validated
+NetMRI 7.5.0 NIOS 8.5.3 Device Support List Infoblox Network Infrastructure Complete Device Support List
+Copyright ©2021, Infoblox, Inc. All rights reserved. Page 120Vendor Model Type OS/Firmware Capabilities Product 
+(NetMRI, 
+Network 
+Insight, or 
+both)Support 
+LevelAdvisor 
+Support
+SNMP Data 
+CollectionConfig 
+CollectionPort 
+Control
+ZTE ZXR10-3252A Switch-Router 4.08.23 Y Y N Both Validated
+ZTE ZXR10 5950-56TM-H Switch-Router 3.01.10.B29P02 Y Y N Both Validated
