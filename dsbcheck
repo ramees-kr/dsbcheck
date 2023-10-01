@@ -1,2 +1,2 @@
-python3 /import/tools/support/DSL/dsbcheck.py
+python3 ./DSL/dsbcheck.py
 #authors:Sanith,Ramees
